@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="Admin_Page.prewashWaterTime_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.cleaningRestTime_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.dryingAirTime_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.dryingRestTime_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.cleaningPressTime_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.prewashRestTime_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.cleaningWaterTime_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.prewashWaterTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.prewashRestTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.dryingAirTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.dryingRestTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.cleaningWaterTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.cleaningPressTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.cleaningRestTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.Warning_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.testTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.TestTime_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.AnalogNumeric" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Admin_Page.Back_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="Admin_Page.prewashWaterTime_Num" TargetProperty="Value" Source="Tags.prewashWaterTime" />
+        <Item Target="Admin_Page.prewashRestTime_Num" TargetProperty="Value" Source="Tags.prewashRestTime" />
+        <Item Target="Admin_Page.dryingAirTime_Num" TargetProperty="Value" Source="Tags.dryingAirTime" />
+        <Item Target="Admin_Page.dryingRestTime_Num" TargetProperty="Value" Source="Tags.dryingRestTime" />
+        <Item Target="Admin_Page.cleaningWaterTime_Num" TargetProperty="Value" Source="Tags.cleaningWaterTime" />
+        <Item Target="Admin_Page.cleaningPressTime_Num" TargetProperty="Value" Source="Tags.cleaningPressTime" />
+        <Item Target="Admin_Page.cleaningRestTime_Num" TargetProperty="Value" Source="Tags.cleaningRestTime" />
+        <Item Target="Admin_Page.testTime_Num" TargetProperty="Value" Source="Tags.TestTime" />
+        <Item Target="Admin_Page.AnalogNumeric" TargetProperty="Value" Source="Tags.CleaningCounterLimit" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="Admin_Page.Back_Button" Source="1859279993_Normal.bmp" />
+        <Item Target="Admin_Page.Back_Button" Source="1859279993_Pressed.bmp" />
+        <Item Target="Admin_Page.Back_Button" Source="1859279993_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="Admin_Page.Back_Button" TargetProperty="Actions" Source="Settings_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>Admin_Page</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>21</ObjectsCount>
+          <ScreenName>Admin_Page</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="Admin_Page.Logo" Source="logobeyaz" Width="475" Height="482" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

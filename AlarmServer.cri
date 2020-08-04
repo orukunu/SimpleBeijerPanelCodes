@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmAcknowledge" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Green_Light" Event="AlarmInactive" Action="Set Tag" Param="" />
+        <Item Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Value" Source="Tags.Emergency_Stop" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmAcknowledge" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Green_Light" Event="AlarmInactive" Action="Set Tag" Param="" />
+        <Item Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Value" Source="Tags.Phase_Error" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmAcknowledge" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Value" Source="Tags.Washing_Thermic" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmAcknowledge" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Value" Source="Tags.Manuel_Washing_Thermic" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmAcknowledge" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item Target="AlarmServer.Default_Blower_Error" TargetProperty="Value" Source="Tags.Blower_Error" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Alarm_Screen" Event="AlarmActive" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Alarm_Screen" Event="AlarmActive" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Alarm_Screen" Event="AlarmActive" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Alarm_Screen" Event="AlarmActive" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Alarm_Screen" Event="AlarmActive" Action="Show Screen" Param="Default" />
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmAcknowledge" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Action" Source="Tags.Green_Light" Event="AlarmInactive" Action="Set Tag" Param="" />
+        <Item Target="AlarmServer.Default_Emergency_Stop" TargetProperty="Value" Source="Tags.Emergency_Stop" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmAcknowledge" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Action" Source="Tags.Green_Light" Event="AlarmInactive" Action="Set Tag" Param="" />
+        <Item Target="AlarmServer.Default_Phase_Sequence" TargetProperty="Value" Source="Tags.Phase_Error" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmAcknowledge" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item Target="AlarmServer.Default_Washing_Pump_Error" TargetProperty="Value" Source="Tags.Washing_Thermic" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmAcknowledge" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item Target="AlarmServer.Default_Manuel_Washing_Pump_Error" TargetProperty="Value" Source="Tags.Manuel_Washing_Thermic" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmActive" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmAcknowledge" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmAcknowledge" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Yellow_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Red_Light" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="AlarmServer.Default_Blower_Error" TargetProperty="Action" Source="Tags.Buzzer" Event="AlarmInactive" Action="Reset Tag" Param="" />
+        <Item Target="AlarmServer.Default_Blower_Error" TargetProperty="Value" Source="Tags.Blower_Error" />
+      </Items>
+    </Category>
+  </Categories>
+</CrossReferences>

@@ -1,0 +1,814 @@
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Common.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CommonCF.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Controls.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ControlsCF.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Core.Utilities.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CoreCF.Utilities.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Tools.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ToolsCF.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\System.Data.SQLite.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\log4net.config
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\BeInProcessNeo.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CommonIde.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\IntegratorSwapActiveProject.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\IntegratorSwapActiveProjectCF.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\StorageDeviceDetection.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\StorageDeviceDetectionCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\graphicspc.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Ionic.Zip.CF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Ionic.Zip.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\French.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\German.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Italian.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Numeric.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\NumericHex.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\NumericIP.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Russian.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Spanish.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\System Default.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\US.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\OnScreenKeyboardPC.exe
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\OPCDAWrapper.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\PropertyBag.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\SqlCeDatabaseCF.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\SQLite.Interop.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\SQLiteDatabase.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\SQLiteDatabaseCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\SQLiteDatabaseCommonCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ToolsIde.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\graphicsce.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\InProcessCE.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\OnScreenKeyboardCE.exe
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\OPCDAWrapperCe.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\PdfWrapperCE.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\PropertyBagCE.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\SQLite.Interop.099.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\VSC.exe
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Fatek_Facon_Pre2ce6.dll.ce6
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\DPF1800Pro.exe.manifest
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Modules.cfgtool
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\AlarmSettings.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\network.bin
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\RenderableControls.zip
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Symbols.zip
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ComRegistration.config
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Controller2.cfg
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ControllerRunTimeSettings.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Controllers.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\English (United Kingdom).Designer.lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\English (United Kingdom).lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Features.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\French (France).Designer.lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\French (France).lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\German (Germany).Designer.lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\German (Germany).lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Italian (Italy).Designer.lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Italian (Italy).lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Polish (Poland).Designer.lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Polish (Poland).lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Portuguese (Portugal).Designer.lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Portuguese (Portugal).lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Printer1.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Project.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Russian (Russia).Designer.lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Russian (Russia).lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ScreenIDs.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Security.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Spanish (Spain, International Sort).Designer.lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Spanish (Spain, International Sort).lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\PlatformFactory.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\TrendDataConfig.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Turkish (Turkey).Designer.lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Turkish (Turkey).lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\LSIS_ENG.TTF
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\App.config
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\hourglass.bmp
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\DPF1800Pro.exe.config
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\DPF1800Pro.exe
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\DPF1800Pro.pdb
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ApplicationFrameworkCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\AttributesCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CommonDatabaseCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CoreCF.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CoreCF.Component.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CoreCF.Component.Engine.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CoreCF.Controls.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CoreCF.Engine.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\DataSourceInterop.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ExtensionsCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\InterfacesCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\log4net.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\MacroExtensionsCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Microsoft.WindowsCE.Forms.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\OpenNETCF.Configuration.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\OpenNETCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\OpenNETCF.Drawing.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\OpenNETCF.Windows.Forms.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ResourcesCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\SecureMail.Core.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\SecureMail.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\SecureMailCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\SignatureInterfacesCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\StorageCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.AdvancedList.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ApplicationFramework.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.AdvancedComboBox.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\DevExpress.XtraEditors.v7.3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\DevExpress.XtraGrid.v7.3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\hasp_net_windows.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\TeeChart.WPF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.CommonControls.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.Core.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\RebexSecureMailCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Core.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.UIElements.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\FlexCel.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\DevExpress.Utils.v7.3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.OutlookControls.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Attributes.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Interfaces.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\PdfiumViewer.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.AdvancedList.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\FreeImageNET.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\TeeChart.Pocket.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Utilities.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.UIElements.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ExcelToPdf.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.UIElements.Controls.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\3DTools.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CoreIde.Engine.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Core.Controls.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\OpenNETCF.WindowsCE.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.ScrollBar.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\RebexSecureMail.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.SmartGrid.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CoreIde.Component.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.UIElements.Controls.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.CommonControls.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\O2S.Components.PDF4NET.Compact.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\DevExpress.XtraLayout.v7.3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Xceed.Zip.v5.1.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.AdvancedComboBox.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\OpenNETCF.Net.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\LicenseResolverTools.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Newtonsoft.Json.Compact.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CoreIde.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Xceed.FileSystem.v5.1.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.OutlookControls.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\MediaPlayerCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Resco.Core.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\LumenWorks.Framework.IO.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\NeoNativeSignature.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\FlexCelCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\IconPack.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\AsyncWinLib.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\SignatureInterfaces.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\DevExpress.Data.v7.3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Prism.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CoreIde.Component.Engine.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\MediaPlayerCELib.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\PropertyBagInterop.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\BeHwApiProvider.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\RemObjects.InternetPack.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Core.CodeGenerationUtilities.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Xceed.Compression.v5.1.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CoreIde.Utilities.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\protobuf-net.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Common.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\InterfacesCF.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Controls.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\Tools.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ToolsCF.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\CommonCF.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\it\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\pt-BR\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hans\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\it\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\pt-BR\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hans\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hant\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\it\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ko\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\pt-BR\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hans\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hant\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\it\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\pt-BR\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hans\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hant\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\it\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ko\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\pt-BR\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hans\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hant\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\it\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ko\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\pt-BR\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hans\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hant\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\it\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ko\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\pt-BR\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hans\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hant\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\pt-BR\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hans\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hant\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\it\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ko\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\pt-BR\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hans\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hant\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\it\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ko\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\pt-BR\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hans\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hant\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\it\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ko\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\pt-BR\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hans\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hant\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\DevExpress.Data.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\DevExpress.Data.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\DevExpress.Data.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\it\DevExpress.Data.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hant\DevExpress.Data.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\de\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\es\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\fr\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\it\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\ko\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\pt-BR\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hans\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\Output\zh-Hant\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\obj\x86\Release\DPF1800Pro.exe
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause\Temp\obj\x86\Release\DPF1800Pro.pdb
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\log4net.config
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\BeInProcessNeo.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Common.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CommonCF.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CommonIde.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Controls.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ControlsCF.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Core.Utilities.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreCF.Utilities.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\IntegratorSwapActiveProject.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\IntegratorSwapActiveProjectCF.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\StorageDeviceDetection.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\StorageDeviceDetectionCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\graphicspc.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Ionic.Zip.CF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Ionic.Zip.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Italian.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Numeric.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\NumericHex.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\NumericIP.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Spanish.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\System Default.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\US.kbl
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OnScreenKeyboardPC.exe
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OPCDAWrapper.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\PropertyBag.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SqlCeDatabaseCF.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SQLite.Interop.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SQLiteDatabase.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SQLiteDatabaseCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SQLiteDatabaseCommonCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Tools.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ToolsCF.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ToolsIde.DLL
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\graphicsce.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\InProcessCE.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OnScreenKeyboardCE.exe
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OPCDAWrapperCe.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\PdfWrapperCE.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\PropertyBagCE.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SQLite.Interop.099.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\System.Data.SQLite.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Fatek_Facon_Pre2ce6.dll.ce6
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Printer1.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Security.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\LSIS_ENG.TTF
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\App.config
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\hourglass.bmp
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DPF1800Pro.exe.manifest
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Modules.cfgtool
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\AlarmSettings.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\network.bin
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\RenderableControls.zip
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Symbols.zip
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ComRegistration.config
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Controller2.cfg
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ControllerRunTimeSettings.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Controllers.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Features.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Italian (Italy).Designer.lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Italian (Italy).lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Portuguese (Portugal).Designer.lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Portuguese (Portugal).lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Project.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ScreenIDs.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Spanish (Spain, International Sort).Designer.lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Spanish (Spain, International Sort).lng
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\PlatformFactory.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\TrendDataConfig.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DPF1800Pro.exe.config
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DPF1800Pro.exe
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DPF1800Pro.pdb
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ApplicationFrameworkCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\AttributesCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CommonDatabaseCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreCF.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreCF.Component.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreCF.Component.Engine.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreCF.Controls.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreCF.Engine.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DataSourceInterop.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ExtensionsCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\InterfacesCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\log4net.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\MacroExtensionsCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Microsoft.WindowsCE.Forms.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.Configuration.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.Drawing.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.Windows.Forms.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ResourcesCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SecureMail.Core.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SecureMail.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SecureMailCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SignatureInterfacesCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\StorageCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.AdvancedList.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ApplicationFramework.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.AdvancedComboBox.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DevExpress.XtraEditors.v7.3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DevExpress.XtraGrid.v7.3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\hasp_net_windows.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\TeeChart.WPF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.CommonControls.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.Core.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\RebexSecureMailCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Core.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.UIElements.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\FlexCel.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DevExpress.Utils.v7.3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.OutlookControls.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Attributes.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Interfaces.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\PdfiumViewer.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.AdvancedList.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\FreeImageNET.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\TeeChart.Pocket.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Utilities.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.UIElements.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ExcelToPdf.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.UIElements.Controls.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\3DTools.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreIde.Engine.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Core.Controls.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.WindowsCE.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.ScrollBar.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\RebexSecureMail.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.SmartGrid.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreIde.Component.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.UIElements.Controls.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.CommonControls.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\O2S.Components.PDF4NET.Compact.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DevExpress.XtraLayout.v7.3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Xceed.Zip.v5.1.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.AdvancedComboBox.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.Net.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\LicenseResolverTools.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Newtonsoft.Json.Compact.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreIde.Api.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Xceed.FileSystem.v5.1.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.OutlookControls.CF3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\MediaPlayerCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.Core.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\LumenWorks.Framework.IO.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\NeoNativeSignature.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\FlexCelCF.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\IconPack.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\AsyncWinLib.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SignatureInterfaces.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DevExpress.Data.v7.3.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Prism.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreIde.Component.Engine.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\MediaPlayerCELib.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\PropertyBagInterop.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\BeHwApiProvider.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\RemObjects.InternetPack.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Core.CodeGenerationUtilities.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Xceed.Compression.v5.1.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreIde.Utilities.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\protobuf-net.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Common.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\InterfacesCF.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Controls.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Tools.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ToolsCF.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CommonCF.xml
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\ControlsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\ResourcesCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\Resources.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\ApplicationFrameworkCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\Controls.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\Tools.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\ToolsCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\DevExpress.Data.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\DevExpress.Data.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\DevExpress.Data.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\DevExpress.Data.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\DevExpress.Data.v7.3.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\CommonCF.resources.dll
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\obj\x86\Release\DPF1800Pro.exe
+C:\Users\Orkun\Desktop\PLC Programları\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\obj\x86\Release\DPF1800Pro.pdb
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Common.DLL
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CommonCF.DLL
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Controls.DLL
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ControlsCF.DLL
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Core.Utilities.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreCF.Utilities.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Tools.DLL
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ToolsCF.DLL
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\System.Data.SQLite.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Symbols.zip
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Controller2.cfg
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ControllerRunTimeSettings.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Italian (Italy).Designer.lng
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Italian (Italy).lng
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Portuguese (Portugal).Designer.lng
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Portuguese (Portugal).lng
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Printer1.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Security.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Spanish (Spain, International Sort).Designer.lng
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Spanish (Spain, International Sort).lng
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\log4net.config
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\BeInProcessNeo.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CommonIde.DLL
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\IntegratorSwapActiveProject.DLL
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\IntegratorSwapActiveProjectCF.DLL
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\StorageDeviceDetection.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\StorageDeviceDetectionCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\graphicspc.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Ionic.Zip.CF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Ionic.Zip.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Italian.kbl
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Numeric.kbl
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\NumericHex.kbl
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\NumericIP.kbl
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Spanish.kbl
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\System Default.kbl
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\US.kbl
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OnScreenKeyboardPC.exe
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OPCDAWrapper.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\PropertyBag.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SqlCeDatabaseCF.DLL
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SQLite.Interop.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SQLiteDatabase.DLL
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SQLiteDatabaseCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SQLiteDatabaseCommonCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ToolsIde.DLL
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\graphicsce.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\InProcessCE.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OnScreenKeyboardCE.exe
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OPCDAWrapperCe.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\PdfWrapperCE.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\PropertyBagCE.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SQLite.Interop.099.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Fatek_Facon_Pre2ce6.dll.ce6
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DPF1800Pro.exe.manifest
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Modules.cfgtool
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\AlarmSettings.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\network.bin
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\RenderableControls.zip
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ComRegistration.config
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Controllers.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Features.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Project.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ScreenIDs.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\PlatformFactory.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\TrendDataConfig.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\LSIS_ENG.TTF
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\App.config
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\hourglass.bmp
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DPF1800Pro.exe.config
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DPF1800Pro.exe
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DPF1800Pro.pdb
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ApplicationFrameworkCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\AttributesCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CommonDatabaseCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreCF.Api.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreCF.Component.Api.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreCF.Component.Engine.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreCF.Controls.Api.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreCF.Engine.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DataSourceInterop.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ExtensionsCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\InterfacesCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\log4net.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\MacroExtensionsCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Microsoft.WindowsCE.Forms.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.Configuration.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.Drawing.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.Windows.Forms.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ResourcesCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SecureMail.Core.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SecureMail.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SecureMailCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SignatureInterfacesCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\StorageCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.AdvancedList.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ApplicationFramework.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.AdvancedComboBox.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DevExpress.XtraEditors.v7.3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DevExpress.XtraGrid.v7.3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\hasp_net_windows.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\TeeChart.WPF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.CommonControls.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.Core.CF3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\RebexSecureMailCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Core.Api.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.UIElements.CF3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\FlexCel.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DevExpress.Utils.v7.3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.WindowsCE.Messaging.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.OutlookControls.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Attributes.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Interfaces.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\PdfiumViewer.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.AdvancedList.CF3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\FreeImageNET.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\TeeChart.Pocket.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Utilities.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.UIElements.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ExcelToPdf.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.UIElements.Controls.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\3DTools.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreIde.Engine.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Core.Controls.Api.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.WindowsCE.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.ScrollBar.CF3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\RebexSecureMail.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.SmartGrid.CF3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreIde.Component.Api.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.UIElements.Controls.CF3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.CommonControls.CF3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\O2S.Components.PDF4NET.Compact.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DevExpress.XtraLayout.v7.3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Xceed.Zip.v5.1.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.AdvancedComboBox.CF3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\OpenNETCF.Net.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\LicenseResolverTools.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Newtonsoft.Json.Compact.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreIde.Api.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Xceed.FileSystem.v5.1.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.OutlookControls.CF3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\MediaPlayerCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Resco.Core.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\LumenWorks.Framework.IO.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\NeoNativeSignature.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\FlexCelCF.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\IconPack.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\AsyncWinLib.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\SignatureInterfaces.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\DevExpress.Data.v7.3.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Prism.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreIde.Component.Engine.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\MediaPlayerCELib.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\PropertyBagInterop.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\BeHwApiProvider.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\RemObjects.InternetPack.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Core.CodeGenerationUtilities.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Xceed.Compression.v5.1.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CoreIde.Utilities.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\protobuf-net.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Common.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\InterfacesCF.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Controls.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\Tools.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ToolsCF.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\CommonCF.xml
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\DevExpress.XtraEditors.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\DevExpress.XtraGrid.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\ControlsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\ControlsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\ControlsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\ControlsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\ControlsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\ControlsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\ControlsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\ControlsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\DevExpress.Utils.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\ResourcesCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\ResourcesCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\ResourcesCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\ResourcesCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\ResourcesCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\ResourcesCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\ResourcesCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\ResourcesCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\Resources.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\Resources.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\Resources.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\Resources.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\Resources.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\Resources.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\Resources.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\Resources.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\ApplicationFrameworkCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\ApplicationFrameworkCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\ApplicationFrameworkCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\ApplicationFrameworkCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\ApplicationFrameworkCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\ApplicationFrameworkCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\ApplicationFrameworkCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\ApplicationFrameworkCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\DevExpress.XtraLayout.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\Controls.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\Controls.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\Controls.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\Controls.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\Controls.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\Controls.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\Controls.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\Controls.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\Tools.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\Tools.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\Tools.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\Tools.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\Tools.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\Tools.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\Tools.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\Tools.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\ToolsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\ToolsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\ToolsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\ToolsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\ToolsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\ToolsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\ToolsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\ToolsCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\DevExpress.Data.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\DevExpress.Data.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\DevExpress.Data.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\DevExpress.Data.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\DevExpress.Data.v7.3.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\de\CommonCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\es\CommonCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\fr\CommonCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\it\CommonCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\ko\CommonCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\pt-BR\CommonCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hans\CommonCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\Output\zh-Hant\CommonCF.resources.dll
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\obj\x86\Release\DPF1800Pro.exe
+C:\Users\Miguel\Desktop\IBERISA - 07.10.2019 CONTADOR + CONFIGURACION\DPF1800 - 10 inç Pro - Pause - IBERISA\Temp\obj\x86\Release\DPF1800Pro.pdb

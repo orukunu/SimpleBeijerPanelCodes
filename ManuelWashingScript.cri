@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items />
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items />
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.WashTimer" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.CycleTimer" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.InCycleTimer" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.LoopCounter" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.Manuel_Washing" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.Washing_Pump" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.Pressure_Valve" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.Yellow_Light" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.Buzzer" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.Green_Light" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.CleaningCounter" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.ManWashTimer" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.ManWashTime" />
+        <Item Target="ManuelWashingScript.Script.cs" Source="Tags.Cycle_Info" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

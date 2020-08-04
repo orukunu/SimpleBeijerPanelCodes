@@ -1,0 +1,4 @@
+Automatic_Screen.Script.cs: Neo.ApplicationFramework.Interfaces.Events.ValueChangedEventArgs => Core.Api.DataSource.ValueChangedEventArgs Type moved to new namespace.
+Manuel_Screen.Script.cs: Neo.ApplicationFramework.Interfaces.Events.ValueChangedEventArgs => Core.Api.DataSource.ValueChangedEventArgs Type moved to new namespace.
+Settings_Screen.Script.cs: Neo.ApplicationFramework.Interfaces.Events.ValueChangedEventArgs => Core.Api.DataSource.ValueChangedEventArgs Type moved to new namespace.
+Test_Screen.Script.cs: Neo.ApplicationFramework.Interfaces.Events.ValueChangedEventArgs => Core.Api.DataSource.ValueChangedEventArgs Type moved to new namespace.

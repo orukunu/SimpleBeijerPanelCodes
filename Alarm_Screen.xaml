@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?neo version='2.42.138.0'?>
+<nacs:ScreenWindow Topmost="False" Title="Alarm_Screen" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" WindowState="Normal" BorderStyle="ThreeDBorder" ScreenSize="800, 480" StyleName="Default" Background="#FFF6821F" Width="800" Height="480" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:nacs="clr-namespace:Neo.ApplicationFramework.Controls.Screen;assembly=Controls" xmlns:naı="clr-namespace:Neo.ApplicationFramework.Interfaces;assembly=Interfaces" xmlns:nacxs="clr-namespace:Neo.ApplicationFramework.Common.Xaml.Serializer;assembly=Common" xmlns:nac="clr-namespace:Neo.ApplicationFramework.Controls;assembly=Controls" xmlns:nacsd="clr-namespace:Neo.ApplicationFramework.Controls.Screen.Design;assembly=Controls" xmlns:naı1="clr-namespace:Neo.ApplicationFramework.Interfaces;assembly=InterfacesCF" xmlns:nacl="clr-namespace:Neo.ApplicationFramework.Controls.Logic;assembly=ControlsCF" xmlns:nac1="clr-namespace:Neo.ApplicationFramework.Common;assembly=Common" xmlns:nacs1="clr-namespace:Neo.ApplicationFramework.Controls.Symbol;assembly=Controls" xmlns:nacc="clr-namespace:Neo.ApplicationFramework.Controls.Controls;assembly=Controls" xmlns:nacb="clr-namespace:Neo.ApplicationFramework.Common.Bevel;assembly=Common" xmlns:nata="clr-namespace:Neo.ApplicationFramework.Tools.Action;assembly=Tools" x:Class="Neo.ApplicationFramework.Generated.Alarm_Screen">
+  <naı:ScriptProperties.ScriptEvents>
+    <naı:ScriptEventList>
+      <nacxs:EventHandlerInfo EventName="Opened" MethodName="Alarm_Screen_Opened" />
+    </naı:ScriptEventList>
+  </naı:ScriptProperties.ScriptEvents>
+  <nacs:ElementCanvas Name="m_EditorCanvas" Width="800" Height="480" FocusVisualStyle="{x:Null}" AllowDrop="True" ClipToBounds="True" Focusable="True" TextOptions.TextFormattingMode="Display" TextOptions.TextRenderingMode="ClearType">
+    <nac:AlarmViewerFX GridBackground="{x:Null}" ColumnHeaderBackground="#FFC9A973" CustomizeScrollbarColor="False" ButtonWidth="130" ButtonHeight="40" ButtonPosition="Right" ButtonMargin="5" ButtonBackground="#FFE2E2E2" FilterButtonIsVisible="True" PauseButtonIsVisible="True" ColumnHeadersVisible="True" SummaryRowVisible="False" SortColumn="ActiveTime" SortDirection="Descending" ContextMenusEnabled="True" MaximumAlarmViewerRows="100" SelectedBorderColor="#FF2E3192" ServerAddress="" ServerPort="0" ScreenOwnerName="Alarm_Screen" BorderBrush="{x:Null}" Background="{x:Null}" Foreground="#FF2E3192" FontFamily="Tahoma" FontSize="12" FontWeight="Bold" Name="m_AlarmViewer" Width="770" Height="380" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="2" Canvas.Left="10" Canvas.Top="80" nacsd:EditorProperties.IsLocked="True" Style="{nac1:StyleMarkupExtension Standard}">
+      <nac:AlarmViewerFX.VisibleColumns>
+        <x:Array Type="naı1:IColumnInfo">
+          <nacl:AlarmColumnInfo MappingName="DisplayState" HeaderName="State" ColumnWidth="80" />
+          <nacl:AlarmColumnInfo MappingName="ActiveTime" HeaderName="Active Time" ColumnWidth="150" />
+          <nacl:AlarmColumnInfo MappingName="DisplayText" HeaderName="Text" ColumnWidth="250" />
+        </x:Array>
+      </nac:AlarmViewerFX.VisibleColumns>
+      <nac:AlarmViewerFX.AlarmEventFilter>
+        <nacl:AlarmEventFilter MaximumAlarmRows="100">
+          <nacl:AlarmEventFilter.Groups>
+            <nacl:AlarmEventFilterGroup Name="Default" Enabled="True" ShowActiveAlarms="True" ShowNormalAlarms="True" ShowAcknowlegedAlarms="True" ShowInactiveAlarms="True" />
+          </nacl:AlarmEventFilter.Groups>
+        </nacl:AlarmEventFilter>
+      </nac:AlarmViewerFX.AlarmEventFilter>
+    </nac:AlarmViewerFX>
+    <nacs1:Picture SymbolName="logobeyaz" Stretch="True" FontSize="10" Name="m_Picture" Width="475" Height="482" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="1" Canvas.Left="464" Canvas.Top="17" nacsd:EditorProperties.IsLocked="True" nacsd:EditorProperties.IsHidden="False" />
+    <nac:Group Name="m_Navigation" Width="800" Height="473" RenderTransformOrigin="0.5,0.5" Panel.ZIndex="3" Canvas.Left="0" Canvas.Top="7" nacsd:EditorProperties.IsLocked="True">
+      <nac:Group Name="m_DateClock" Width="128" Height="46" RenderTransformOrigin="0.5,0.5" Panel.ZIndex="6" Canvas.Left="643" Canvas.Top="6" nacsd:EditorProperties.IsLocked="False" nacsd:EditorProperties.IsHidden="False">
+        <nac:DigitalClock DisplayFormat="Date" ShowSeconds="True" ShowDayOfWeek="False" Foreground="#FFFFFFFF" FontSize="18" FontWeight="Bold" Name="m_DigitalClock3" Width="166" MinWidth="120.933333333333" Height="29" MinHeight="21.7266666666667" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5" Panel.ZIndex="3" Canvas.Left="0" Canvas.Top="0" nacsd:EditorProperties.IsHidden="True" />
+        <nac:DigitalClock DisplayFormat="Time" ShowSeconds="True" ShowDayOfWeek="False" Foreground="#FFFFFFFF" FontSize="18" FontWeight="Bold" Name="m_DigitalClock4" Width="143" MinWidth="99.84" Height="29" MinHeight="21.7266666666667" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5" Panel.ZIndex="4" Canvas.Left="6" Canvas.Top="20" nacsd:EditorProperties.IsHidden="True" />
+      </nac:Group>
+      <nacc:Rectangle Fill="#00FFFFFF" Stroke="#FFFFFFFF" StrokeThickness="10" Name="m_Rectangle" Width="800" Height="420" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="9" Canvas.Left="0" Canvas.Top="53" nacsd:EditorProperties.IsLocked="False">
+        <nacc:Rectangle.BevelEffectInfo>
+          <nacb:BevelEffectInfo Style="Sunken" />
+        </nacc:Rectangle.BevelEffectInfo>
+        <naı:ActionProperties.Actions>
+          <naı:ActionList />
+        </naı:ActionProperties.Actions>
+      </nacc:Rectangle>
+      <nac:Button ButtonAppearance="RoundedTop" Text="Drying" RequiresTransparency="True" SymbolTransparent="False" BorderBrush="#FFFFFFFF" BorderThickness="5,5,5,0" Background="#FF2E3192" Foreground="#FFFFFFFF" FontSize="16" Name="m_Drying_Button" Width="97" Height="58" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="3" Canvas.Left="417" Canvas.Top="0" nacsd:EditorProperties.IsLocked="False" Style="{nac1:StyleMarkupExtension Vintage}">
+        <nac:Button.TextDecorations>
+          <TextDecorationCollection />
+        </nac:Button.TextDecorations>
+        <naı:ActionProperties.Actions>
+          <naı:ActionList>
+            <nata:Action Name="Show Screen">
+              <nata:Action.ActionMethodInfo>
+                <nata:ActionMethodInfo Name="Show" ObjectName="Drying_Screen" EventName="Click" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.22.212.0, Culture=neutral, PublicKeyToken=null" ObjectPath="Default" ExplicitAuditTrail="False">
+                  <nata:ActionMethodInfo.ActionParameterInfo>
+                    <naı:ActionParameterInfoList>
+                      <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                    </naı:ActionParameterInfoList>
+                  </nata:ActionMethodInfo.ActionParameterInfo>
+                </nata:ActionMethodInfo>
+              </nata:Action.ActionMethodInfo>
+            </nata:Action>
+          </naı:ActionList>
+        </naı:ActionProperties.Actions>
+      </nac:Button>
+      <nac:Button ButtonAppearance="RoundedTop" ImageStretch="False" ImageMargin="10,10,10,10" Text="" RequiresTransparency="True" SymbolName="home (1)" SymbolTransparent="False" BorderBrush="#FFFFFFFF" BorderThickness="5,5,5,0" Background="#FF2E3192" FontSize="18" Name="m_Home_Button" Width="97" Height="58" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="4" Canvas.Left="1" Canvas.Top="0" nacsd:EditorProperties.IsLocked="False" Style="{nac1:StyleMarkupExtension Vintage}">
+        <nac:Button.TextDecorations>
+          <TextDecorationCollection />
+        </nac:Button.TextDecorations>
+        <naı:ActionProperties.Actions>
+          <naı:ActionList>
+            <nata:Action Name="Show Screen">
+              <nata:Action.ActionMethodInfo>
+                <nata:ActionMethodInfo Name="Show" ObjectName="HomeScreen" EventName="Click" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.22.212.0, Culture=neutral, PublicKeyToken=null" ObjectPath="Default" ExplicitAuditTrail="False">
+                  <nata:ActionMethodInfo.ActionParameterInfo>
+                    <naı:ActionParameterInfoList>
+                      <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                    </naı:ActionParameterInfoList>
+                  </nata:ActionMethodInfo.ActionParameterInfo>
+                </nata:ActionMethodInfo>
+              </nata:Action.ActionMethodInfo>
+            </nata:Action>
+          </naı:ActionList>
+        </naı:ActionProperties.Actions>
+      </nac:Button>
+      <nac:Button ButtonAppearance="RoundedTop" Text="Manuel&#xD;&#xA;Washing" MultiLine="True" RequiresTransparency="True" SymbolTransparent="False" BorderBrush="#FFFFFFFF" BorderThickness="5,5,5,0" Background="#FF2E3192" FontSize="16" Name="m_Manuel_Button" Width="97" Height="58" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="5" Canvas.Left="209" Canvas.Top="0" nacsd:EditorProperties.IsLocked="False" Style="{nac1:StyleMarkupExtension Vintage}">
+        <nac:Button.TextDecorations>
+          <TextDecorationCollection />
+        </nac:Button.TextDecorations>
+        <naı:ActionProperties.Actions>
+          <naı:ActionList>
+            <nata:Action Name="Show Screen">
+              <nata:Action.ActionMethodInfo>
+                <nata:ActionMethodInfo Name="Show" ObjectName="Manuel_Screen" EventName="Click" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.22.212.0, Culture=neutral, PublicKeyToken=null" ObjectPath="Default" ExplicitAuditTrail="False">
+                  <nata:ActionMethodInfo.ActionParameterInfo>
+                    <naı:ActionParameterInfoList>
+                      <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                    </naı:ActionParameterInfoList>
+                  </nata:ActionMethodInfo.ActionParameterInfo>
+                </nata:ActionMethodInfo>
+              </nata:Action.ActionMethodInfo>
+            </nata:Action>
+          </naı:ActionList>
+        </naı:ActionProperties.Actions>
+      </nac:Button>
+      <nac:Button ButtonAppearance="RoundedTop" Text="Test" MultiLine="True" RequiresTransparency="True" SymbolTransparent="False" BorderBrush="#FFFFFFFF" BorderThickness="5,5,5,0" Background="#FF2E3192" Foreground="#FFFFFFFF" FontSize="16" Name="m_Test_Nav" Width="97" Height="58" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="7" Canvas.Left="313" Canvas.Top="0" nacsd:EditorProperties.IsLocked="False" Style="{nac1:StyleMarkupExtension Vintage}">
+        <nac:Button.TextDecorations>
+          <TextDecorationCollection />
+        </nac:Button.TextDecorations>
+        <naı:ActionProperties.Actions>
+          <naı:ActionList>
+            <nata:Action Name="Show Screen">
+              <nata:Action.ActionMethodInfo>
+                <nata:ActionMethodInfo Name="Show" ObjectName="Test_Screen" EventName="Click" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.22.212.0, Culture=neutral, PublicKeyToken=null" ObjectPath="Default" ExplicitAuditTrail="False">
+                  <nata:ActionMethodInfo.ActionParameterInfo>
+                    <naı:ActionParameterInfoList>
+                      <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                    </naı:ActionParameterInfoList>
+                  </nata:ActionMethodInfo.ActionParameterInfo>
+                </nata:ActionMethodInfo>
+              </nata:Action.ActionMethodInfo>
+            </nata:Action>
+          </naı:ActionList>
+        </naı:ActionProperties.Actions>
+      </nac:Button>
+      <nac:Button ButtonAppearance="RoundedTop" Text="Automatic&#xD;&#xA;Washing" MultiLine="True" RequiresTransparency="True" SymbolTransparent="False" BorderBrush="#FFFFFFFF" BorderThickness="5,5,5,0" Background="#FF2E3192" Foreground="#FFFFFFFF" FontSize="16" Name="m_Auto_Button" Width="97" Height="58" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="8" Canvas.Left="105" Canvas.Top="0" nacsd:EditorProperties.IsLocked="False" Style="{nac1:StyleMarkupExtension Vintage}">
+        <nac:Button.TextDecorations>
+          <TextDecorationCollection />
+        </nac:Button.TextDecorations>
+        <naı:ActionProperties.Actions>
+          <naı:ActionList>
+            <nata:Action Name="Show Screen">
+              <nata:Action.ActionMethodInfo>
+                <nata:ActionMethodInfo Name="Show" ObjectName="Automatic_Screen" EventName="Click" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.22.212.0, Culture=neutral, PublicKeyToken=null" ObjectPath="Default" ExplicitAuditTrail="False">
+                  <nata:ActionMethodInfo.ActionParameterInfo>
+                    <naı:ActionParameterInfoList>
+                      <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                    </naı:ActionParameterInfoList>
+                  </nata:ActionMethodInfo.ActionParameterInfo>
+                </nata:ActionMethodInfo>
+              </nata:Action.ActionMethodInfo>
+            </nata:Action>
+          </naı:ActionList>
+        </naı:ActionProperties.Actions>
+      </nac:Button>
+      <nac:Button ButtonAppearance="RoundedTop" Text="Alarm&#xD;&#xA;Screen" MultiLine="True" RequiresTransparency="True" SymbolTransparent="False" BorderBrush="#FFFFFFFF" BorderThickness="5,5,5,0" Background="#FFFFFFFF" Foreground="#FF2E3192" FontSize="16" FontWeight="Bold" Name="m_Alarm_button" Width="97" Height="58" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="10" Canvas.Left="523" Canvas.Top="0" nacsd:EditorProperties.IsLocked="False" Style="{nac1:StyleMarkupExtension Vintage}">
+        <nac:Button.TextDecorations>
+          <TextDecorationCollection />
+        </nac:Button.TextDecorations>
+        <naı:ActionProperties.Actions>
+          <naı:ActionList />
+        </naı:ActionProperties.Actions>
+      </nac:Button>
+    </nac:Group>
+    <nac:Button ButtonAppearance="Default" ImageMargin="0,0,0,0" Text="Components" MultiLine="False" WordWrap="False" TextMargin="0,0,0,0" RequiresTransparency="True" SymbolTransparent="False" BorderThickness="1,1,1,1" Background="#FFE3E3E3" Foreground="#FF2E3192" FontSize="14" FontWeight="Bold" Name="m_Button" Width="130" Height="40" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="4" Canvas.Left="650" Canvas.Top="17" nacsd:EditorProperties.IsLocked="False" Style="{nac1:StyleMarkupExtension DefaultCF}">
+      <nac:Button.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Button.TextDecorations>
+      <naı:ActionProperties.Actions>
+        <naı:ActionList>
+          <nata:Action Name="Show Screen">
+            <nata:Action.ActionMethodInfo>
+              <nata:ActionMethodInfo Name="Show" ObjectName="Components" EventName="Click" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.22.212.0, Culture=neutral, PublicKeyToken=null" ObjectPath="Default" ExplicitAuditTrail="False">
+                <nata:ActionMethodInfo.ActionParameterInfo>
+                  <naı:ActionParameterInfoList>
+                    <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                  </naı:ActionParameterInfoList>
+                </nata:ActionMethodInfo.ActionParameterInfo>
+              </nata:ActionMethodInfo>
+            </nata:Action.ActionMethodInfo>
+          </nata:Action>
+        </naı:ActionList>
+      </naı:ActionProperties.Actions>
+    </nac:Button>
+  </nacs:ElementCanvas>
+</nacs:ScreenWindow>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?><nacs:ScreenWindow Topmost="False" Title="LoginScreen" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" WindowState="Normal" BorderStyle="ThreeDBorder" ScreenSize="800, 480" StyleName="Default" IsCacheable="True" Background="{x:Null}" Width="800" Height="480" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:nacs="clr-namespace:Neo.ApplicationFramework.Controls.Screen;assembly=Controls" xmlns:nacs1="clr-namespace:Neo.ApplicationFramework.Controls.Screen;assembly=ControlsCF" xmlns:nacc="clr-namespace:Neo.ApplicationFramework.Controls.Controls;assembly=Controls" xmlns:nacl="clr-namespace:Neo.ApplicationFramework.Controls.Logic;assembly=Controls" xmlns:nac="clr-namespace:Neo.ApplicationFramework.Controls;assembly=Controls" xmlns:nacsd="clr-namespace:Neo.ApplicationFramework.Controls.Screen.Design;assembly=Controls" xmlns:nacb="clr-namespace:Neo.ApplicationFramework.Common.Bevel;assembly=Common" xmlns:naı="clr-namespace:Neo.ApplicationFramework.Interfaces;assembly=Interfaces" xmlns:nacb1="clr-namespace:Neo.ApplicationFramework.Controls.Blink;assembly=Controls" xmlns:nac1="clr-namespace:Neo.ApplicationFramework.Common;assembly=Common" xmlns:nacxs="clr-namespace:Neo.ApplicationFramework.Common.Xaml.Serializer;assembly=Common" xmlns:nata="clr-namespace:Neo.ApplicationFramework.Tools.Action;assembly=Tools" x:Class="Neo.ApplicationFramework.Generated.LoginScreen">
+  <nacs:ScreenWindow.TemplateScreen>
+    <nacs1:TemplateScreen Name="Settings_Screen" RenderMode="Background" />
+  </nacs:ScreenWindow.TemplateScreen>
+  <nacs:ElementCanvas Name="m_EditorCanvas" Width="800" Height="480" FocusVisualStyle="{x:Null}" AllowDrop="True" ClipToBounds="True" Focusable="True" TextOptions.TextFormattingMode="Display" TextOptions.TextRenderingMode="ClearType" Panel.ZIndex="104">
+    <nacc:Rectangle Fill="#FFFFFFFF" Stroke="#FF000000" StrokeThickness="2" Name="m_Rectangle" Width="500" Height="300" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="2" nacl:DelayInputEvents.DelayMouseInput="False" nac:EnabledProperties.EnabledDynamicsValue="True" Canvas.Left="150" Canvas.Top="70" nacsd:EditorProperties.IsLocked="True">
+      <nacc:Rectangle.BevelEffectInfo>
+        <nacb:BevelEffectInfo Width="10" />
+      </nacc:Rectangle.BevelEffectInfo>
+      <naı:ActionProperties.Actions>
+        <naı:ActionList />
+      </naı:ActionProperties.Actions>
+    </nacc:Rectangle>
+    <nac:Label AutoSize="False" Text="Administrator Login" Background="#00FFFFFF" Foreground="#FFE57921" FontFamily="Tahoma" FontSize="20" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="5,0,5,1" Name="m_Text" Width="500" Height="35" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="3" Canvas.Left="150" Canvas.Top="80" nacsd:EditorProperties.IsLocked="True">
+      <nac:Label.TextDecorations>
+        <TextDecorationCollection>
+          <TextDecoration Location="Underline" />
+        </TextDecorationCollection>
+      </nac:Label.TextDecorations>
+    </nac:Label>
+    <nac:Label Text="Warning!" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Tahoma" FontSize="20" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text1" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Hidden" Panel.ZIndex="7" nacb1:BlinkProperties.VisibleDynamicsValue="False" Canvas.Left="535" Canvas.Top="21" nacsd:EditorProperties.IsLocked="True" nacsd:EditorProperties.IsHidden="False">
+      <nac:Label.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Label.TextDecorations>
+    </nac:Label>
+    <nac:Label Text="Wrong Password!" Background="#00FFFFFF" Foreground="#FF000000" FontFamily="Tahoma" FontSize="20" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5,0,5,1" Name="m_Text2" Width="Auto" Height="Auto" RenderTransformOrigin="0.5,0.5" Visibility="Hidden" Panel.ZIndex="8" nacb1:BlinkProperties.VisibleDynamicsValue="False" Canvas.Left="342" Canvas.Top="21" nacsd:EditorProperties.IsLocked="True">
+      <nac:Label.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Label.TextDecorations>
+    </nac:Label>
+    <nac:AnalogNumericFX AutoStretchFont="False" NumberOfDecimals="0" MaxNumberOfCharacters="4" LimitNumberOfCharacters="True" MaxValue="9999" ValidateValueOnInput="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontFamily="Tahoma" UndoLimit="1" Transparent="Visible" BorderBrush="#FFE57921" BorderThickness="2,2,2,2" Foreground="#FF000000" FontSize="20" FontWeight="Bold" Padding="2,2,2,2" Name="m_Password_Num" Width="300" Height="50" RenderTransformOrigin="0.5,0.5" Visibility="Visible" Panel.ZIndex="9" KeyboardNavigation.TabNavigation="None" Canvas.Left="250" Canvas.Top="155" nacsd:EditorProperties.IsLocked="True">
+      <nac:AnalogNumericFX.BevelEffectInfo>
+        <nacb:BevelEffectInfo Style="Sunken" Width="2" />
+      </nac:AnalogNumericFX.BevelEffectInfo>
+      <nac:AnalogNumericFX.TextDecorations>
+        <TextDecorationCollection />
+      </nac:AnalogNumericFX.TextDecorations>
+      <nac:AnalogNumericFX.Background>
+        <LinearGradientBrush StartPoint="0.5,1" EndPoint="0.5,0">
+          <LinearGradientBrush.GradientStops>
+            <GradientStopCollection>
+              <GradientStop Color="#FFFFFFFF" />
+              <GradientStop Color="#FFD4D0C8" Offset="1" />
+            </GradientStopCollection>
+          </LinearGradientBrush.GradientStops>
+        </LinearGradientBrush>
+      </nac:AnalogNumericFX.Background>
+    </nac:AnalogNumericFX>
+    <nac:Button Text="" RequiresTransparency="True" SymbolTransparent="False" Transparent="Hidden" FontSize="15" Name="m_Button" Width="800" Height="480" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="1" Canvas.Left="0" Canvas.Top="0" nacsd:EditorProperties.IsLocked="True" Style="{nac1:StyleMarkupExtension Classic}">
+      <nac:Button.TextDecorations>
+        <TextDecorationCollection />
+      </nac:Button.TextDecorations>
+    </nac:Button>
+    <nac:Button ButtonAppearance="Angular" CornerRadius="10,10,10,10" Text="CANCEL" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" BorderThickness="2,2,2,2" Foreground="#FFFF0000" FontSize="15" FontWeight="Bold" Name="m_CancelButton" Width="150" Height="55" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="5" Canvas.Left="220" Canvas.Top="280" nacsd:EditorProperties.IsLocked="True" Style="{nac1:StyleMarkupExtension Chrome}">
+      <naı:ScriptProperties.ScriptEvents>
+        <naı:ScriptEventList>
+          <nacxs:EventHandlerInfo EventName="Click" MethodName="CancelButton_Click" />
+        </naı:ScriptEventList>
+      </naı:ScriptProperties.ScriptEvents>
+      <naı:ActionProperties.Actions>
+        <naı:ActionList>
+          <nata:Action Name="Show Screen">
+            <nata:Action.ActionMethodInfo>
+              <nata:ActionMethodInfo Name="Show" ObjectName="Settings_Screen" EventName="Click" ReferenceType="Global" ObjectParentName="" ObjectPathProvider="Neo.ApplicationFramework.Tools.Action.ScreenInstanceObjectPathProvider, ToolsIde, Version=2.22.212.0, Culture=neutral, PublicKeyToken=null" ObjectPath="" ExplicitAuditTrail="False">
+                <nata:ActionMethodInfo.ActionParameterInfo>
+                  <naı:ActionParameterInfoList>
+                    <nata:ActionParameterInfo Position="0" Value="{x:Null}" ParameterName="position" ParameterTypeString="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" TagName="" />
+                  </naı:ActionParameterInfoList>
+                </nata:ActionMethodInfo.ActionParameterInfo>
+              </nata:ActionMethodInfo>
+            </nata:Action.ActionMethodInfo>
+          </nata:Action>
+        </naı:ActionList>
+      </naı:ActionProperties.Actions>
+    </nac:Button>
+    <nac:Button ButtonAppearance="Angular" CornerRadius="10,10,10,10" Text="LOGIN" MultiLine="False" WordWrap="False" TextDecorations="{x:Null}" RequiresTransparency="True" SymbolTransparent="False" BorderThickness="2,2,2,2" Foreground="#FF2E3192" FontSize="15" FontWeight="Bold" Name="m_LoginButton" Width="150" Height="55" HorizontalAlignment="Center" VerticalAlignment="Center" FocusVisualStyle="{x:Null}" RenderTransform="Identity" RenderTransformOrigin="0.5,0.5" Visibility="Visible" IsEnabled="True" Panel.ZIndex="6" Canvas.Left="430" Canvas.Top="280" nacsd:EditorProperties.IsLocked="True" Style="{nac1:StyleMarkupExtension Chrome}">
+      <naı:ScriptProperties.ScriptEvents>
+        <naı:ScriptEventList>
+          <nacxs:EventHandlerInfo EventName="Click" MethodName="LoginButton_Click" />
+        </naı:ScriptEventList>
+      </naı:ScriptProperties.ScriptEvents>
+      <naı:ActionProperties.Actions>
+        <naı:ActionList />
+      </naı:ActionProperties.Actions>
+    </nac:Button>
+  </nacs:ElementCanvas>
+</nacs:ScreenWindow>

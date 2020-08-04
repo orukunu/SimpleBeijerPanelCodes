@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TagMonitors>
+  <m_TagMonitor.HomeScreen>
+    <Tag>MagneticDoorSwitch</Tag>
+    <Tag>WaterLevelSwitch</Tag>
+  </m_TagMonitor.HomeScreen>
+  <m_TagMonitor.Manuel_Screen>
+    <Tag>Manuel_Washing</Tag>
+    <Tag>Washing_Pump</Tag>
+    <Tag>WashTimer</Tag>
+    <Tag>ManWashTimer</Tag>
+    <Tag>InCycleTimer</Tag>
+    <Tag>InCycle</Tag>
+    <Tag>Cycle_Info</Tag>
+    <Tag>DPF_CAT</Tag>
+    <Tag>LoopCounter</Tag>
+  </m_TagMonitor.Manuel_Screen>
+</TagMonitors>

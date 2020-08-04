@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="Settings_Screen.Bot.Text3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Bot.Text4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Bot.AnalogNumeric" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Bot.AnalogNumeric4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Washing_Gun_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Washing_Pump_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Blower_Test" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Pressure_Valve" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.DateClock.DigitalClock3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.DateClock.DigitalClock4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.AnalogNumeric1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.AnalogNumeric2" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.AnalogNumeric3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Text1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Home_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Admin_Page_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Calibration_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.Text2" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Settings_Screen.AnalogNumeric5" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="Settings_Screen.Bot.AnalogNumeric" TargetProperty="Value" Source="Tags.Max_Pressure" />
+        <Item Target="Settings_Screen.Bot.AnalogNumeric4" TargetProperty="Value" Source="Tags.Company_Name" />
+        <Item xsi:type="ActionItem" Target="Settings_Screen.Washing_Gun_Button" TargetProperty="Actions" Source="Tags.Manual_Washing_Pump" Event="Click" Action="Toggle Tag" Param="" />
+        <Item Target="Settings_Screen.Washing_Gun_Button" TargetProperty="Value" Source="Tags.Manual_Washing_Pump" />
+        <Item Target="Settings_Screen.Washing_Gun_Button" TargetProperty="Background" Source="Tags.Manual_Washing_Pump" />
+        <Item xsi:type="ActionItem" Target="Settings_Screen.Washing_Pump_Button" TargetProperty="Actions" Source="Tags.Washing_Pump" Event="Click" Action="Toggle Tag" Param="" />
+        <Item Target="Settings_Screen.Washing_Pump_Button" TargetProperty="Value" Source="Tags.Washing_Pump" />
+        <Item Target="Settings_Screen.Washing_Pump_Button" TargetProperty="Background" Source="Tags.Washing_Pump" />
+        <Item xsi:type="ActionItem" Target="Settings_Screen.Blower_Test" TargetProperty="Actions" Source="Tags.Blower" Event="Click" Action="Toggle Tag" Param="" />
+        <Item Target="Settings_Screen.Blower_Test" TargetProperty="Value" Source="Tags.Blower" />
+        <Item Target="Settings_Screen.Blower_Test" TargetProperty="Background" Source="Tags.Blower" />
+        <Item xsi:type="ActionItem" Target="Settings_Screen.Pressure_Valve" TargetProperty="Actions" Source="Tags.Pressure_Valve" Event="Click" Action="Toggle Tag" Param="" />
+        <Item Target="Settings_Screen.Pressure_Valve" TargetProperty="Value" Source="Tags.Pressure_Valve" />
+        <Item Target="Settings_Screen.Pressure_Valve" TargetProperty="Background" Source="Tags.Pressure_Valve" />
+        <Item Target="Settings_Screen.AnalogNumeric1" TargetProperty="Value" Source="Tags.Pressure_Input" />
+        <Item Target="Settings_Screen.AnalogNumeric2" TargetProperty="Value" Source="Tags.PressureCalibrationValue" />
+        <Item Target="Settings_Screen.AnalogNumeric3" TargetProperty="Value" Source="Tags.PressureCalibrationCounter" />
+        <Item xsi:type="ActionItem" Target="Settings_Screen.Button" TargetProperty="Actions" Source="Tags.CleaningCounter" Event="Click" Action="Set Analog" Param="" />
+        <Item Target="Settings_Screen.AnalogNumeric5" TargetProperty="Value" Source="Tags.CleaningCounter" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="Settings_Screen.Home_Button" Source="1775881799_Normal.bmp" />
+        <Item Target="Settings_Screen.Home_Button" Source="1775881799_Pressed.bmp" />
+        <Item Target="Settings_Screen.Home_Button" Source="1775881799_Disabled.bmp" />
+        <Item Target="Settings_Screen.Admin_Page_Button" Source="-2048560093_Normal.bmp" />
+        <Item Target="Settings_Screen.Admin_Page_Button" Source="-2048560093_Pressed.bmp" />
+        <Item Target="Settings_Screen.Admin_Page_Button" Source="-2048560093_Disabled.bmp" />
+        <Item Target="Settings_Screen.Calibration_Button" Source="-2048560093_Normal.bmp" />
+        <Item Target="Settings_Screen.Calibration_Button" Source="-2048560093_Pressed.bmp" />
+        <Item Target="Settings_Screen.Calibration_Button" Source="-2048560093_Disabled.bmp" />
+        <Item Target="Settings_Screen.Button" Source="-2048560093_Normal.bmp" />
+        <Item Target="Settings_Screen.Button" Source="-2048560093_Pressed.bmp" />
+        <Item Target="Settings_Screen.Button" Source="-2048560093_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="Settings_Screen.Home_Button" TargetProperty="Actions" Source="Automatic_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Settings_Screen.Admin_Page_Button" TargetProperty="Actions" Source="LoginScreen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>Settings_Screen</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>25</ObjectsCount>
+          <ScreenName>Settings_Screen</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="Settings_Screen.Script.cs" Source="Tags.Washing_Pump" />
+        <Item Target="Settings_Screen.Script.cs" Source="Tags.Blower" />
+        <Item Target="Settings_Screen.Script.cs" Source="Tags.Manual_Washing_Pump" />
+        <Item Target="Settings_Screen.Script.cs" Source="Tags.Pressure_Valve" />
+        <Item Target="Settings_Screen.Script.cs" Source="Tags.PressureCalibrationCounter" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="Settings_Screen.Washing_Gun_Button" TargetProperty="Actions" Source="Tags.Manual_Washing_Pump" Event="Click" Action="Toggle Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Settings_Screen.Washing_Pump_Button" TargetProperty="Actions" Source="Tags.Washing_Pump" Event="Click" Action="Toggle Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Settings_Screen.Blower_Test" TargetProperty="Actions" Source="Tags.Blower" Event="Click" Action="Toggle Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Settings_Screen.Pressure_Valve" TargetProperty="Actions" Source="Tags.Pressure_Valve" Event="Click" Action="Toggle Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Settings_Screen.Button" TargetProperty="Actions" Source="Tags.CleaningCounter" Event="Click" Action="Set Analog" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="Settings_Screen.Picture4" Source="logobeyaz" Width="475" Height="482" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Settings_Screen.Home_Button" Source="home (1)" Width="40" Height="35" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

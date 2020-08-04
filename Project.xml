@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project SchemaVersion="2.42.138.0" ProjectRevision="47">
+  <Guid>db68fff3-d845-416d-a550-0224b965380a</Guid>
+  <ProjectFiles>
+    <ProjectFile Name="AlarmServer.neo" ModifiedDate="2019-05-01T13:04:35.3304716+02:00" Length="58042" />
+    <ProjectFile Name="AlarmServer.Script.cs" ModifiedDate="2019-03-30T12:11:13.0499257+01:00" Length="786" />
+    <ProjectFile Name="MultipleLanguages.neo" ModifiedDate="2019-10-07T11:20:07.4708912+02:00" Length="154632" />
+    <ProjectFile Name="Spanish (Spain, International Sort).lng" ModifiedDate="2019-10-07T11:20:07.5168492+02:00" Length="88" />
+    <ProjectFile Name="Spanish (Spain, International Sort).Designer.lng" ModifiedDate="2019-10-07T11:20:07.4858832+02:00" Length="26030" />
+    <ProjectFile Name="Portuguese (Portugal).lng" ModifiedDate="2019-10-07T11:20:07.5178644+02:00" Length="60" />
+    <ProjectFile Name="Portuguese (Portugal).Designer.lng" ModifiedDate="2019-10-07T11:20:07.4968758+02:00" Length="26004" />
+    <ProjectFile Name="Italian (Italy).lng" ModifiedDate="2019-10-07T11:20:07.5198486+02:00" Length="48" />
+    <ProjectFile Name="Italian (Italy).Designer.lng" ModifiedDate="2019-10-07T11:20:07.5078701+02:00" Length="26034" />
+    <ProjectFile Name="Expressions.neo" ModifiedDate="2019-05-01T13:04:35.6632794+02:00" Length="791" />
+    <ProjectFile Name="LicenseRootComponent.neo" ModifiedDate="2019-05-01T13:04:51.7250833+02:00" Length="17965" />
+    <ProjectFile Name="Tags.neo" ModifiedDate="2019-10-07T10:34:54.402405+02:00" Length="109005" />
+    <ProjectFile Name="Tags.Script.cs" ModifiedDate="2019-10-07T10:34:54.4134145+02:00" Length="783" />
+    <ProjectFile Name="ProjectConfiguration.neo" ModifiedDate="2019-05-01T13:04:35.4054294+02:00" Length="6349" />
+    <ProjectFile Name="Security.neo" ModifiedDate="2019-05-01T13:04:35.4124256+02:00" Length="422" />
+    <ProjectFile Name="Security.xml" ModifiedDate="2018-02-02T18:11:59.3631533+01:00" Length="694" />
+    <ProjectFile Name="SntpClientRootComponent.neo" ModifiedDate="2019-05-01T13:04:35.4144253+02:00" Length="440" />
+    <ProjectFile Name="ProjectImages.neo" ModifiedDate="2019-05-01T13:04:52.6655432+02:00" Length="456" />
+    <ProjectFile Name="Symbols\backward.png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="3987" />
+    <ProjectFile Name="Symbols\blink_green.png" ModifiedDate="2016-04-21T11:32:44+02:00" Length="4460" />
+    <ProjectFile Name="Symbols\blink_red.png" ModifiedDate="2016-04-21T11:32:16+02:00" Length="4445" />
+    <ProjectFile Name="Symbols\clock.png" ModifiedDate="2016-04-20T23:41:08+02:00" Length="6075" />
+    <ProjectFile Name="Symbols\close (1).png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="7168" />
+    <ProjectFile Name="Symbols\d&amp;t.png" ModifiedDate="2017-03-31T17:38:38+02:00" Length="4335" />
+    <ProjectFile Name="Symbols\emergency.PNG" ModifiedDate="2016-12-05T13:18:04+01:00" Length="329418" />
+    <ProjectFile Name="Symbols\favicon (1).png" ModifiedDate="2015-10-27T11:08:23.3621359+01:00" Length="295718" />
+    <ProjectFile Name="Symbols\forward.png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="4073" />
+    <ProjectFile Name="Symbols\france-flag-3d-round-icon-256.png" ModifiedDate="2019-03-30T12:02:15.8562644+01:00" Length="26923" />
+    <ProjectFile Name="Symbols\france.png" ModifiedDate="2019-03-30T11:49:43.443643+01:00" Length="13586" />
+    <ProjectFile Name="Symbols\french-round-clipart-metal-trim.png" ModifiedDate="2019-02-08T15:26:55.7537543+01:00" Length="45365" />
+    <ProjectFile Name="Symbols\german-flag-button.png" ModifiedDate="2018-01-16T19:52:07.4584702+01:00" Length="24469" />
+    <ProjectFile Name="Symbols\germany-flag-3d-round-icon-256.png" ModifiedDate="2019-03-30T11:59:49.3245472+01:00" Length="22590" />
+    <ProjectFile Name="Symbols\germany.png" ModifiedDate="2019-03-30T11:49:49.8071178+01:00" Length="7881" />
+    <ProjectFile Name="Symbols\home (1).png" ModifiedDate="2016-12-05T14:09:24+01:00" Length="13302" />
+    <ProjectFile Name="Symbols\iconmonstr-tools-2-icon1 (1).png" ModifiedDate="2017-03-31T10:02:26+02:00" Length="13314" />
+    <ProjectFile Name="Symbols\iconmonstr-tools-2-icon1.png" ModifiedDate="2017-03-31T10:01:26+02:00" Length="14098" />
+    <ProjectFile Name="Symbols\italy-flag-3d-round-icon-256.png" ModifiedDate="2019-03-30T12:02:31.818811+01:00" Length="27259" />
+    <ProjectFile Name="Symbols\italy-flag-button.png" ModifiedDate="2019-03-30T11:24:56.4640681+01:00" Length="48687" />
+    <ProjectFile Name="Symbols\italy.png" ModifiedDate="2019-03-30T11:50:26.9299049+01:00" Length="13557" />
+    <ProjectFile Name="Symbols\last.png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="4131" />
+    <ProjectFile Name="Symbols\light close.png" ModifiedDate="2017-03-31T11:01:36+02:00" Length="20608" />
+    <ProjectFile Name="Symbols\light open.png" ModifiedDate="2017-03-31T11:00:52+02:00" Length="29902" />
+    <ProjectFile Name="Symbols\logobeyaz.png" ModifiedDate="2016-04-21T10:37:46+02:00" Length="71953" />
+    <ProjectFile Name="Symbols\logowname (2).png" ModifiedDate="2017-03-30T14:55:12+02:00" Length="290787" />
+    <ProjectFile Name="Symbols\medium.png" ModifiedDate="2016-08-10T12:19:26+02:00" Length="236656" />
+    <ProjectFile Name="Symbols\new-portugal-flag-button.PNG" ModifiedDate="2019-03-29T13:33:22+01:00" Length="227993" />
+    <ProjectFile Name="Symbols\next (1).png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="4019" />
+    <ProjectFile Name="Symbols\pandown.png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="4231" />
+    <ProjectFile Name="Symbols\panup.png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="4136" />
+    <ProjectFile Name="Symbols\pause.png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="3645" />
+    <ProjectFile Name="Symbols\play.png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="3747" />
+    <ProjectFile Name="Symbols\poland-flag-3d-round-icon-256.png" ModifiedDate="2019-03-30T12:02:47.5289086+01:00" Length="24760" />
+    <ProjectFile Name="Symbols\poland-flag-button-2.png" ModifiedDate="2018-12-05T11:20:00.8665281+01:00" Length="33668" />
+    <ProjectFile Name="Symbols\poland.png" ModifiedDate="2019-03-30T11:49:54.7645943+01:00" Length="9520" />
+    <ProjectFile Name="Symbols\portugal-flag-3d-round-icon-256.png" ModifiedDate="2019-03-30T12:02:57.0167351+01:00" Length="46101" />
+    <ProjectFile Name="Symbols\portugal-flag-button-steel-frame.png" ModifiedDate="2018-12-05T11:20:01.0782069+01:00" Length="53378" />
+    <ProjectFile Name="Symbols\portugal.png" ModifiedDate="2019-03-30T11:50:00.5840047+01:00" Length="12663" />
+    <ProjectFile Name="Symbols\previous (1).png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="4078" />
+    <ProjectFile Name="Symbols\russia-flag-button-2.png" ModifiedDate="2018-01-16T19:50:57.4485629+01:00" Length="40360" />
+    <ProjectFile Name="Symbols\spain-flag-3d-round-icon-256.png" ModifiedDate="2019-03-30T12:02:39.6088888+01:00" Length="40007" />
+    <ProjectFile Name="Symbols\spain-flag-button.png" ModifiedDate="2018-12-05T11:20:00.9444934+01:00" Length="47601" />
+    <ProjectFile Name="Symbols\spain.png" ModifiedDate="2019-03-30T11:50:12.7063845+01:00" Length="7949" />
+    <ProjectFile Name="Symbols\technical_support_service_hardware_repair_optimization-2-512.png" ModifiedDate="2017-03-31T09:52:10+02:00" Length="24399" />
+    <ProjectFile Name="Symbols\times and dates.png" ModifiedDate="2017-03-31T10:12:22+02:00" Length="7062" />
+    <ProjectFile Name="Symbols\trend.png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="5796" />
+    <ProjectFile Name="Symbols\turkey-flag-3d-round-icon-256.png" ModifiedDate="2019-03-30T12:02:06.4958428+01:00" Length="28878" />
+    <ProjectFile Name="Symbols\turkey-flag-button-2.png" ModifiedDate="2018-01-16T19:51:28.1207189+01:00" Length="40078" />
+    <ProjectFile Name="Symbols\turkey.png" ModifiedDate="2019-03-30T11:49:35.6214207+01:00" Length="13470" />
+    <ProjectFile Name="Symbols\uk-flag-button.png" ModifiedDate="2018-01-16T19:52:41.3693192+01:00" Length="31427" />
+    <ProjectFile Name="Symbols\united-kingdom-flag-3d-round-icon-256.png" ModifiedDate="2019-03-30T12:02:23.5731872+01:00" Length="34859" />
+    <ProjectFile Name="Symbols\united-kingdom.png" ModifiedDate="2019-03-30T11:49:06.1769414+01:00" Length="14029" />
+    <ProjectFile Name="Symbols\zoom in.png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="7296" />
+    <ProjectFile Name="Symbols\zoom out.png" ModifiedDate="2016-04-08T09:55:18+02:00" Length="7084" />
+    <ProjectFile Name="Symbols\favicon.ico" ModifiedDate="2015-10-27T11:09:02.0825747+01:00" Length="16958" />
+    <ProjectFile Name="Symbols\action cancel red.lib" ModifiedDate="2016-10-14T09:52:16+02:00" Length="16648" />
+    <ProjectFile Name="Symbols\ag_arrow down green.lib" ModifiedDate="2015-10-20T00:20:22+02:00" Length="11484" />
+    <ProjectFile Name="Symbols\ag_arrow up green.lib" ModifiedDate="2015-10-20T00:20:22+02:00" Length="11283" />
+    <ProjectFile Name="Symbols\ag_reload green.lib" ModifiedDate="2016-08-10T11:49:50+02:00" Length="27402" />
+    <ProjectFile Name="Symbols\arrow 10.lib" ModifiedDate="2016-08-10T11:49:52+02:00" Length="8121" />
+    <ProjectFile Name="Symbols\arrow 3.lib" ModifiedDate="2015-10-20T00:20:22+02:00" Length="6302" />
+    <ProjectFile Name="Symbols\arrow 7.lib" ModifiedDate="2016-08-10T11:48:14+02:00" Length="6250" />
+    <ProjectFile Name="Symbols\beijer-electronics1.lib" ModifiedDate="2016-04-08T09:55:18+02:00" Length="9452" />
+    <ProjectFile Name="Symbols\button green.lib" ModifiedDate="2016-04-08T09:54:56+02:00" Length="24062" />
+    <ProjectFile Name="Symbols\calendar month.lib" ModifiedDate="2016-04-08T09:54:58+02:00" Length="42900" />
+    <ProjectFile Name="Symbols\flag_russian.lib" ModifiedDate="2016-09-16T00:38:06+02:00" Length="25364" />
+    <ProjectFile Name="Symbols\gear.lib" ModifiedDate="2016-04-08T09:54:58+02:00" Length="45445" />
+    <ProjectFile Name="Symbols\gears.lib" ModifiedDate="2016-08-10T11:47:34+02:00" Length="39870" />
+    <ProjectFile Name="Symbols\home.lib" ModifiedDate="2016-08-10T12:19:58+02:00" Length="20595" />
+    <ProjectFile Name="Symbols\led_green.lib" ModifiedDate="2016-04-08T09:54:56+02:00" Length="34325" />
+    <ProjectFile Name="Symbols\led_red.lib" ModifiedDate="2016-04-08T09:54:56+02:00" Length="33316" />
+    <ProjectFile Name="Symbols\led_yellow.lib" ModifiedDate="2016-04-08T09:54:56+02:00" Length="34573" />
+    <ProjectFile Name="Symbols\steering.lib" ModifiedDate="2016-04-08T09:54:56+02:00" Length="50947" />
+    <ProjectFile Name="Symbols\tools.lib" ModifiedDate="2016-04-08T09:54:58+02:00" Length="44768" />
+    <ProjectFile Name="Automatic_Screen.neoxaml" ModifiedDate="2019-10-07T10:34:54.6083029+02:00" Length="808" />
+    <ProjectFile Name="Automatic_Screen.Script.cs" ModifiedDate="2019-10-07T10:34:54.6103012+02:00" Length="5409" />
+    <ProjectFile Name="Automatic_Screen.xaml" ModifiedDate="2019-10-07T10:34:55.0650241+02:00" Length="92092" />
+    <ProjectFile Name="Settings_Screen.neoxaml" ModifiedDate="2019-10-07T17:09:18.912406+02:00" Length="807" />
+    <ProjectFile Name="Settings_Screen.Script.cs" ModifiedDate="2019-10-07T17:09:18.9183889+02:00" Length="1713" />
+    <ProjectFile Name="Settings_Screen.xaml" ModifiedDate="2019-10-07T17:09:19.0912883+02:00" Length="44718" />
+    <ProjectFile Name="Alarm_Screen.neoxaml" ModifiedDate="2019-08-28T16:28:43.962756+02:00" Length="804" />
+    <ProjectFile Name="Alarm_Screen.Script.cs" ModifiedDate="2019-08-28T16:28:43.9677661+02:00" Length="1710" />
+    <ProjectFile Name="Alarm_Screen.xaml" ModifiedDate="2019-08-28T16:28:44.043709+02:00" Length="18353" />
+    <ProjectFile Name="HomeScreen.neoxaml" ModifiedDate="2019-10-07T11:01:14.6273029+02:00" Length="802" />
+    <ProjectFile Name="HomeScreen.Script.cs" ModifiedDate="2019-10-07T11:01:14.628315+02:00" Length="1425" />
+    <ProjectFile Name="HomeScreen.xaml" ModifiedDate="2019-10-07T11:01:14.8011993+02:00" Length="50327" />
+    <ProjectFile Name="Drying_Screen.neoxaml" ModifiedDate="2019-08-28T16:28:45.586823+02:00" Length="805" />
+    <ProjectFile Name="Drying_Screen.Script.cs" ModifiedDate="2019-08-28T16:28:45.5918184+02:00" Length="3063" />
+    <ProjectFile Name="Drying_Screen.xaml" ModifiedDate="2019-08-28T16:28:45.7007579+02:00" Length="41686" />
+    <ProjectFile Name="Test_Screen.neoxaml" ModifiedDate="2019-10-07T17:09:19.9268653+02:00" Length="803" />
+    <ProjectFile Name="Test_Screen.Script.cs" ModifiedDate="2019-10-07T17:09:19.9288798+02:00" Length="3091" />
+    <ProjectFile Name="Test_Screen.xaml" ModifiedDate="2019-10-07T17:09:20.1337462+02:00" Length="55249" />
+    <ProjectFile Name="Admin_Page.neoxaml" ModifiedDate="2019-10-07T17:09:21.5439502+02:00" Length="802" />
+    <ProjectFile Name="Admin_Page.xaml" ModifiedDate="2019-10-07T17:09:21.6408816+02:00" Length="27620" />
+    <ProjectFile Name="LoginScreen.neoxaml" ModifiedDate="2019-05-01T13:04:35.6083107+02:00" Length="774" />
+    <ProjectFile Name="LoginScreen.Script.cs" ModifiedDate="2019-02-08T16:34:56.7032103+01:00" Length="1302" />
+    <ProjectFile Name="LoginScreen.xaml" ModifiedDate="2019-05-01T13:04:35.6013146+02:00" Length="9451" />
+    <ProjectFile Name="Manuel_Screen.neoxaml" ModifiedDate="2019-10-07T10:34:59.8480642+02:00" Length="805" />
+    <ProjectFile Name="Manuel_Screen.Script.cs" ModifiedDate="2019-10-07T10:34:59.8490638+02:00" Length="6483" />
+    <ProjectFile Name="Manuel_Screen.xaml" ModifiedDate="2019-10-07T10:35:00.0819326+02:00" Length="96067" />
+    <ProjectFile Name="Components.neoxaml" ModifiedDate="2019-08-28T16:28:51.6133579+02:00" Length="802" />
+    <ProjectFile Name="Components.xaml" ModifiedDate="2019-08-28T16:28:51.6713282+02:00" Length="29750" />
+    <ProjectFile Name="Printer1.xml" ModifiedDate="2016-09-19T10:58:58+02:00" Length="850" />
+    <ProjectFile Name="Controller2.neo" ModifiedDate="2019-10-07T10:35:02.0288094+02:00" Length="16715" />
+    <ProjectFile Name="TestingFilterScript.neo" ModifiedDate="2019-05-01T13:04:35.4224203+02:00" Length="451" />
+    <ProjectFile Name="TestingFilterScript.Script.cs" ModifiedDate="2019-03-12T20:49:35.991601+01:00" Length="2368" />
+    <ProjectFile Name="AutomaticWashingScript.neo" ModifiedDate="2019-08-28T15:24:32.6526641+02:00" Length="483" />
+    <ProjectFile Name="AutomaticWashingScript.Script.cs" ModifiedDate="2019-08-28T15:24:32.6596437+02:00" Length="4331" />
+    <ProjectFile Name="DryingScript.neo" ModifiedDate="2019-05-01T13:04:35.4314154+02:00" Length="444" />
+    <ProjectFile Name="DryingScript.Script.cs" ModifiedDate="2018-02-02T17:59:45.4931369+01:00" Length="2441" />
+    <ProjectFile Name="BlinkScript.neo" ModifiedDate="2019-05-01T13:04:35.433414+02:00" Length="443" />
+    <ProjectFile Name="BlinkScript.Script.cs" ModifiedDate="2018-01-21T21:42:04.9850789+01:00" Length="1650" />
+    <ProjectFile Name="CycleTimerScript.neo" ModifiedDate="2019-07-10T17:24:58.2860457+02:00" Length="477" />
+    <ProjectFile Name="CycleTimerScript.Script.cs" ModifiedDate="2019-07-10T17:24:58.3000379+02:00" Length="4837" />
+    <ProjectFile Name="PrewashScript.neo" ModifiedDate="2019-05-09T00:27:36.3953357+02:00" Length="474" />
+    <ProjectFile Name="PrewashScript.Script.cs" ModifiedDate="2019-05-09T00:27:36.3973355+02:00" Length="2191" />
+    <ProjectFile Name="WashingScript.neo" ModifiedDate="2019-08-28T15:24:32.6816322+02:00" Length="474" />
+    <ProjectFile Name="WashingScript.Script.cs" ModifiedDate="2019-08-28T15:24:32.6836463+02:00" Length="3438" />
+    <ProjectFile Name="WashDryingScript.neo" ModifiedDate="2019-05-01T13:04:35.4454073+02:00" Length="448" />
+    <ProjectFile Name="WashDryingScript.Script.cs" ModifiedDate="2018-03-05T07:52:26.0983998+01:00" Length="2313" />
+    <ProjectFile Name="BuzzerScript.neo" ModifiedDate="2019-05-01T13:04:35.4474063+02:00" Length="444" />
+    <ProjectFile Name="BuzzerScript.Script.cs" ModifiedDate="2018-01-22T08:01:18.1004092+01:00" Length="1649" />
+    <ProjectFile Name="ManuelWashingScript.neo" ModifiedDate="2019-08-28T15:24:32.7006206+02:00" Length="480" />
+    <ProjectFile Name="ManuelWashingScript.Script.cs" ModifiedDate="2019-08-28T15:24:32.7026168+02:00" Length="3250" />
+    <ProjectFile Name="PressureCalibrationScript.neo" ModifiedDate="2019-06-20T18:28:04.7142372+02:00" Length="486" />
+    <ProjectFile Name="PressureCalibrationScript.Script.cs" ModifiedDate="2019-06-20T18:28:04.7232319+02:00" Length="1829" />
+  </ProjectFiles>
+</Project>

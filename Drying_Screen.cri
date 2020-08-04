@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="Drying_Screen.Drying_Time_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Drying_Min_Set" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Filter_Stabilizer_Control.Button4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Door_Control.Door_Close_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Door_Control.Door_Open_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Navigation.DateClock.DigitalClock3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Navigation.DateClock.DigitalClock4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Navigation.Test_Nav" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Navigation.Home_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Navigation.Auto_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Navigation.Manuel_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Navigation.Alarm_button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Navigation.Drying_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Text4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Text2" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Text1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Current_Heat" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Current_Heat_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Drying_Heat_Set" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Drying_Heat_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Drying_Screen.Drying_Start" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="Drying_Screen.Drying_Status" TargetProperty="Fill" Source="Tags.Drying_Proc" />
+        <Item Target="Drying_Screen.Drying_Min_Set" TargetProperty="Value" Source="Tags.Drying_Time" />
+        <Item Target="Drying_Screen.Drying_Min_Set" TargetProperty="IsReadOnly" Source="Tags.Drying_Proc" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Filter_Stabilizer_Control.Button4" TargetProperty="Actions" Source="Tags.Piston_Up" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Filter_Stabilizer_Control.Button4" TargetProperty="Actions" Source="Tags.Piston_Up" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Actions" Source="Tags.Piston_Down" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Actions" Source="Tags.Piston_Down" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Door_Control.Door_Close_Button" TargetProperty="Actions" Source="Tags.Door_Close" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Door_Control.Door_Close_Button" TargetProperty="Actions" Source="Tags.Door_Close" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Door_Control.Door_Open_Button" TargetProperty="Actions" Source="Tags.Door_Open" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Door_Control.Door_Open_Button" TargetProperty="Actions" Source="Tags.Door_Open" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item Target="Drying_Screen.Navigation.Test_Nav" TargetProperty="EnabledProperties.EnabledDynamicsValue" Source="Tags.Automatic_Washing" />
+        <Item Target="Drying_Screen.Navigation.Manuel_Button" TargetProperty="EnabledProperties.EnabledDynamicsValue" Source="Tags.Drying_Proc" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Lamp_Switch" TargetProperty="Actions" Source="Tags.Interior_Lightning" Event="MouseDown" Action="Toggle Tag" Param="" />
+        <Item Target="Drying_Screen.Lamp_Switch" TargetProperty="Value" Source="Tags.Interior_Lightning" />
+        <Item Target="Drying_Screen.Current_Heat" TargetProperty="Value" Source="Tags.Current_Air_Heater" />
+        <Item Target="Drying_Screen.Drying_Heat_Set" TargetProperty="Value" Source="Tags.Air_Heater_Set" />
+        <Item Target="Drying_Screen.Drying_Start" TargetProperty="Value" Source="Tags.Drying_Proc" />
+        <Item Target="Drying_Screen.Drying_Start" TargetProperty="Foreground" Source="Tags.Drying_Proc" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="Drying_Screen.Filter_Stabilizer_Control.Button4" Source="983584347_Normal.bmp" />
+        <Item Target="Drying_Screen.Filter_Stabilizer_Control.Button4" Source="983584347_Pressed.bmp" />
+        <Item Target="Drying_Screen.Filter_Stabilizer_Control.Button4" Source="983584347_Disabled.bmp" />
+        <Item Target="Drying_Screen.Filter_Stabilizer_Control.Stable_Down" Source="420018005_Normal.bmp" />
+        <Item Target="Drying_Screen.Filter_Stabilizer_Control.Stable_Down" Source="420018005_Pressed.bmp" />
+        <Item Target="Drying_Screen.Filter_Stabilizer_Control.Stable_Down" Source="420018005_Disabled.bmp" />
+        <Item Target="Drying_Screen.Door_Control.Door_Close_Button" Source="420018005_Normal.bmp" />
+        <Item Target="Drying_Screen.Door_Control.Door_Close_Button" Source="420018005_Pressed.bmp" />
+        <Item Target="Drying_Screen.Door_Control.Door_Close_Button" Source="420018005_Disabled.bmp" />
+        <Item Target="Drying_Screen.Door_Control.Door_Open_Button" Source="983584347_Normal.bmp" />
+        <Item Target="Drying_Screen.Door_Control.Door_Open_Button" Source="983584347_Pressed.bmp" />
+        <Item Target="Drying_Screen.Door_Control.Door_Open_Button" Source="983584347_Disabled.bmp" />
+        <Item Target="Drying_Screen.Navigation.Test_Nav" Source="-475964534_Normal.bmp" />
+        <Item Target="Drying_Screen.Navigation.Test_Nav" Source="-475964534_Pressed.bmp" />
+        <Item Target="Drying_Screen.Navigation.Test_Nav" Source="-475964534_Disabled.bmp" />
+        <Item Target="Drying_Screen.Navigation.Home_Button" Source="1775881799_Normal.bmp" />
+        <Item Target="Drying_Screen.Navigation.Home_Button" Source="1775881799_Pressed.bmp" />
+        <Item Target="Drying_Screen.Navigation.Home_Button" Source="1775881799_Disabled.bmp" />
+        <Item Target="Drying_Screen.Navigation.Auto_Button" Source="-475964534_Normal.bmp" />
+        <Item Target="Drying_Screen.Navigation.Auto_Button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Drying_Screen.Navigation.Auto_Button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Drying_Screen.Navigation.Manuel_Button" Source="-475964534_Normal.bmp" />
+        <Item Target="Drying_Screen.Navigation.Manuel_Button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Drying_Screen.Navigation.Manuel_Button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Drying_Screen.Navigation.Alarm_button" Source="-475964534_Normal.bmp" />
+        <Item Target="Drying_Screen.Navigation.Alarm_button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Drying_Screen.Navigation.Alarm_button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Drying_Screen.Navigation.Drying_Button" Source="188522111_Normal.bmp" />
+        <Item Target="Drying_Screen.Navigation.Drying_Button" Source="188522111_Pressed.bmp" />
+        <Item Target="Drying_Screen.Navigation.Drying_Button" Source="188522111_Disabled.bmp" />
+        <Item Target="Drying_Screen.Drying_Start" Source="-1729577388_Normal.bmp" />
+        <Item Target="Drying_Screen.Drying_Start" Source="-1729577388_Pressed.bmp" />
+        <Item Target="Drying_Screen.Drying_Start" Source="-1729577388_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Navigation.Test_Nav" TargetProperty="Actions" Source="Test_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Navigation.Home_Button" TargetProperty="Actions" Source="HomeScreen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Navigation.Auto_Button" TargetProperty="Actions" Source="Automatic_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Navigation.Manuel_Button" TargetProperty="Actions" Source="Manuel_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Navigation.Alarm_button" TargetProperty="Actions" Source="Alarm_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>Drying_Screen</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>27</ObjectsCount>
+          <ScreenName>Drying_Screen</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="Drying_Screen.Script.cs" Source="Tags.Drying_Proc" />
+        <Item Target="Drying_Screen.Script.cs" Source="Tags.DryingTimer" />
+        <Item Target="Drying_Screen.Script.cs" Source="Tags.Drying_Time" />
+        <Item Target="Drying_Screen.Script.cs" Source="Tags.Air_Heater_Set" />
+        <Item Target="Drying_Screen.Script.cs" Source="Tags.Automatic_Washing" />
+        <Item Target="Drying_Screen.Script.cs" Source="Tags.Manuel_Washing" />
+        <Item Target="Drying_Screen.Script.cs" Source="Tags.Testing_Proc" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Filter_Stabilizer_Control.Button4" TargetProperty="Actions" Source="Tags.Piston_Up" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Filter_Stabilizer_Control.Button4" TargetProperty="Actions" Source="Tags.Piston_Up" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Actions" Source="Tags.Piston_Down" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Actions" Source="Tags.Piston_Down" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Door_Control.Door_Close_Button" TargetProperty="Actions" Source="Tags.Door_Close" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Door_Control.Door_Close_Button" TargetProperty="Actions" Source="Tags.Door_Close" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Door_Control.Door_Open_Button" TargetProperty="Actions" Source="Tags.Door_Open" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Door_Control.Door_Open_Button" TargetProperty="Actions" Source="Tags.Door_Open" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Drying_Screen.Lamp_Switch" TargetProperty="Actions" Source="Tags.Interior_Lightning" Event="MouseDown" Action="Toggle Tag" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="Drying_Screen.Logo" Source="logobeyaz" Width="475" Height="482" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Drying_Screen.Navigation.Home_Button" Source="home (1)" Width="40" Height="35" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Drying_Screen.Lamp_Switch" Source="light close" Width="89" Height="93" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Drying_Screen.Lamp_Switch" Source="light close" Width="89" Height="93" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Drying_Screen.Lamp_Switch" Source="light open" Width="89" Height="93" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

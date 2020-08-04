@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items>
+        <Item xsi:type="AlarmViewerItem" Target="Alarm_Screen.AlarmViewer" ServerID="" ServerPort="0" MaximumAlarmEvents="100" />
+      </Items>
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="Alarm_Screen.AlarmViewer" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Alarm_Screen.Navigation.DateClock.DigitalClock3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Alarm_Screen.Navigation.DateClock.DigitalClock4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Alarm_Screen.Navigation.Drying_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Alarm_Screen.Navigation.Home_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Alarm_Screen.Navigation.Manuel_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Alarm_Screen.Navigation.Test_Nav" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Alarm_Screen.Navigation.Auto_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Alarm_Screen.Navigation.Alarm_button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Alarm_Screen.Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items />
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="Alarm_Screen.Navigation.Drying_Button" Source="-475964534_Normal.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Drying_Button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Drying_Button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Home_Button" Source="1775881799_Normal.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Home_Button" Source="1775881799_Pressed.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Home_Button" Source="1775881799_Disabled.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Manuel_Button" Source="-475964534_Normal.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Manuel_Button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Manuel_Button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Test_Nav" Source="-475964534_Normal.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Test_Nav" Source="-475964534_Pressed.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Test_Nav" Source="-475964534_Disabled.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Auto_Button" Source="-475964534_Normal.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Auto_Button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Auto_Button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Alarm_button" Source="188522111_Normal.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Alarm_button" Source="188522111_Pressed.bmp" />
+        <Item Target="Alarm_Screen.Navigation.Alarm_button" Source="188522111_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="Alarm_Screen.Navigation.Drying_Button" TargetProperty="Actions" Source="Drying_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Alarm_Screen.Navigation.Home_Button" TargetProperty="Actions" Source="HomeScreen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Alarm_Screen.Navigation.Manuel_Button" TargetProperty="Actions" Source="Manuel_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Alarm_Screen.Navigation.Test_Nav" TargetProperty="Actions" Source="Test_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Alarm_Screen.Navigation.Auto_Button" TargetProperty="Actions" Source="Automatic_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Alarm_Screen.Button" TargetProperty="Actions" Source="Components" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>Alarm_Screen</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>12</ObjectsCount>
+          <ScreenName>Alarm_Screen</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="Alarm_Screen.Script.cs" Source="Tags.Automatic_Washing" />
+        <Item Target="Alarm_Screen.Script.cs" Source="Tags.Manuel_Washing" />
+        <Item Target="Alarm_Screen.Script.cs" Source="Tags.Testing_Proc" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="Alarm_Screen.Picture" Source="logobeyaz" Width="475" Height="482" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Alarm_Screen.Navigation.Home_Button" Source="home (1)" Width="40" Height="35" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

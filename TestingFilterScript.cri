@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items />
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items />
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="TestingFilterScript.Script.cs" Source="Tags.TestTimer" />
+        <Item Target="TestingFilterScript.Script.cs" Source="Tags.Testing_Proc" />
+        <Item Target="TestingFilterScript.Script.cs" Source="Tags.Pressure_Valve" />
+        <Item Target="TestingFilterScript.Script.cs" Source="Tags.Printer" />
+        <Item Target="TestingFilterScript.Script.cs" Source="Tags.Max_Pressure" />
+        <Item Target="TestingFilterScript.Script.cs" Source="Tags.TestTime" />
+        <Item Target="TestingFilterScript.Script.cs" Source="Tags.Pressure_Info" />
+        <Item Target="TestingFilterScript.Script.cs" Source="Tags.Clean_Filter" />
+        <Item Target="TestingFilterScript.Script.cs" Source="Tags.Clogged_Filter" />
+        <Item Target="TestingFilterScript.Script.cs" Source="Tags.Dirty_Filter" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

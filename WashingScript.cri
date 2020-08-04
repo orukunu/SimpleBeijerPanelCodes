@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items />
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items />
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="WashingScript.Script.cs" Source="Tags.Cycle_Info" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.InCycle" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.InCycleTimer" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.LoopCounter" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.ManWashTime" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.Manuel_Washing" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.prewashWaterTime" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.prewashRestTime" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.Man_Pre_Wash_Cycle" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.dryingAirTime" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.dryingRestTime" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.ManWash_Dry_Cycle" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.CycleTimer" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.cleaningWaterTime" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.cleaningPressTime" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.cleaningRestTime" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.Automatic_Washing" />
+        <Item Target="WashingScript.Script.cs" Source="Tags.Max_Pressure" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

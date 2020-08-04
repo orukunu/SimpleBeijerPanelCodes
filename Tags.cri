@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="Tags.PressureCalibrationValue" TargetProperty="Value" Source="Tags.PressureCalibrationValue" />
+        <Item Target="Tags" TargetProperty="SystemTagDay" Source="Controller2.DataItem20" />
+        <Item Target="Tags" TargetProperty="SystemTagHour" Source="Controller2.DataItem21" />
+        <Item Target="Tags" TargetProperty="SystemTagMinute" Source="Controller2.DataItem22" />
+        <Item Target="Tags" TargetProperty="SystemTagYear" Source="Controller2.DataItem23" />
+        <Item Target="Tags" TargetProperty="SystemTagMonth" Source="Controller2.DataItem24" />
+        <Item Target="Tags" TargetProperty="SystemTagSecond" Source="Controller2.DataItem25" />
+        <Item Target="Tags" TargetProperty="Emergency_Stop" Source="Controller2.DataItem1" />
+        <Item Target="Tags" TargetProperty="Yellow_Light" Source="Controller2.DataItem3" />
+        <Item Target="Tags" TargetProperty="Red_Light" Source="Controller2.DataItem2" />
+        <Item Target="Tags" TargetProperty="Phase_Error" Source="Controller2.DataItem4" />
+        <Item Target="Tags" TargetProperty="Washing_Thermic" Source="Controller2.DataItem5" />
+        <Item Target="Tags" TargetProperty="Manuel_Washing_Thermic" Source="Controller2.DataItem6" />
+        <Item Target="Tags" TargetProperty="Blower_Error" Source="Controller2.DataItem7" />
+        <Item Target="Tags" TargetProperty="AirHeater_Error" Source="Controller2.DataItem8" />
+        <Item Target="Tags" TargetProperty="Green_Light" Source="Controller2.DataItem9" />
+        <Item Target="Tags" TargetProperty="Buzzer" Source="Controller2.DataItem10" />
+        <Item Target="Tags" TargetProperty="Washing_Pump" Source="Controller2.DataItem11" />
+        <Item Target="Tags" TargetProperty="Manual_Washing_Pump" Source="Controller2.DataItem12" />
+        <Item Target="Tags" TargetProperty="Blower" Source="Controller2.DataItem13" />
+        <Item Target="Tags" TargetProperty="Water_Heater" Source="Controller2.DataItem14" />
+        <Item Target="Tags" TargetProperty="Air_Heater" Source="Controller2.DataItem15" />
+        <Item Target="Tags" TargetProperty="Door_Open" Source="Controller2.DataItem16" />
+        <Item Target="Tags" TargetProperty="Door_Close" Source="Controller2.DataItem17" />
+        <Item Target="Tags" TargetProperty="Piston_Up" Source="Controller2.DataItem18" />
+        <Item Target="Tags" TargetProperty="Piston_Down" Source="Controller2.DataItem26" />
+        <Item Target="Tags" TargetProperty="Pressure_Valve" Source="Controller2.DataItem27" />
+        <Item Target="Tags" TargetProperty="Interior_Lightning" Source="Controller2.DataItem28" />
+        <Item Target="Tags" TargetProperty="Company_Name" Source="Controller2.DataItem19" />
+        <Item Target="Tags" TargetProperty="Water_Temp_Set" Source="Controller2.DataItem30" />
+        <Item Target="Tags" TargetProperty="Water_Temp_Current" Source="Controller2.DataItem31" />
+        <Item Target="Tags" TargetProperty="Pressure_Info" Source="Controller2.DataItem32" />
+        <Item Target="Tags" TargetProperty="Serial_No" Source="Controller2.DataItem34" />
+        <Item Target="Tags" TargetProperty="Client_No" Source="Controller2.DataItem35" />
+        <Item Target="Tags" TargetProperty="Max_Pressure" Source="Controller2.DataItem29" />
+        <Item Target="Tags" TargetProperty="Printer" Source="Controller2.DataItem39" />
+        <Item Target="Tags" TargetProperty="Current_Air_Heater" Source="Controller2.DataItem33" />
+        <Item Target="Tags" TargetProperty="Air_Heater_Set" Source="Controller2.DataItem36" />
+        <Item Target="Tags" TargetProperty="prewashWaterTime" Source="Controller2.DataItem49" />
+        <Item Target="Tags" TargetProperty="prewashRestTime" Source="Controller2.DataItem50" />
+        <Item Target="Tags" TargetProperty="dryingAirTime" Source="Controller2.DataItem51" />
+        <Item Target="Tags" TargetProperty="dryingRestTime" Source="Controller2.DataItem52" />
+        <Item Target="Tags" TargetProperty="cleaningWaterTime" Source="Controller2.DataItem53" />
+        <Item Target="Tags" TargetProperty="cleaningPressTime" Source="Controller2.DataItem54" />
+        <Item Target="Tags" TargetProperty="cleaningRestTime" Source="Controller2.DataItem55" />
+        <Item Target="Tags" TargetProperty="TestTime" Source="Controller2.DataItem58" />
+        <Item Target="Tags" TargetProperty="Man_Pre_Wash_Cycle" Source="Controller2.DataItem56" />
+        <Item Target="Tags" TargetProperty="ManWash_Dry_Cycle" Source="Controller2.DataItem57" />
+        <Item Target="Tags" TargetProperty="DoorSafetyButton" Source="Controller2.DataItem37" />
+        <Item Target="Tags" TargetProperty="MagneticDoorSwitch" Source="Controller2.DataItem38" />
+        <Item Target="Tags" TargetProperty="WaterLevelSwitch" Source="Controller2.DataItem40" />
+        <Item Target="Tags" TargetProperty="SafetyRelay2_LightCurtain" Source="Controller2.DataItem41" />
+        <Item Target="Tags" TargetProperty="Pressure_Input" Source="Controller2.DataItem42" />
+        <Item Target="Tags" TargetProperty="PressureCalibrationValue" Source="Controller2.DataItem43" />
+        <Item Target="Tags" TargetProperty="x0" Source="Controller2.DataItem44" />
+        <Item Target="Tags" TargetProperty="Foot_Switch" Source="Controller2.DataItem45" />
+        <Item Target="Tags" TargetProperty="PausedStatus" Source="Controller2.DataItem46" />
+        <Item Target="Tags" TargetProperty="WaterTransmitter" Source="Controller2.DataItem47" />
+        <Item Target="Tags" TargetProperty="AirHeaterTransmitter" Source="Controller2.DataItem48" />
+        <Item Target="Tags" TargetProperty="SystemLanguage" Source="Controller2.DataItem59" />
+        <Item Target="Tags" TargetProperty="CleaningCounter" Source="Controller2.DataItem60" />
+        <Item Target="Tags" TargetProperty="CleaningCounterLimit" Source="Controller2.DataItem61" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items />
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

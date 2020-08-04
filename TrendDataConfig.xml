@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TrendDataSources>
+  <TrendViewer Name="Test_Screen.TrendViewer" TimeRangeBoundDataItem="" TrendWidth="237" TimeRange="PT10S">
+    <GlobalDataItems>
+      <GlobalDataItem DataSourceName="Tags.Pressure_Info" />
+    </GlobalDataItems>
+  </TrendViewer>
+  <TrendViewer Name="Test_Screen.TrendViewer1" TimeRangeBoundDataItem="" TrendWidth="702" TimeRange="PT10S">
+    <GlobalDataItems>
+      <GlobalDataItem DataSourceName="Tags.Pressure_Info" />
+    </GlobalDataItems>
+  </TrendViewer>
+</TrendDataSources>

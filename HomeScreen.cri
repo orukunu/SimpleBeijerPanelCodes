@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="HomeScreen.Group1.AnalogNumeric1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.Group1.AnalogNumeric" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.Group1.testTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.Group1.cleaningRestTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.Group1.cleaningPressTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.Group1.cleaningWaterTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.Group1.dryingRestTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.Group1.dryingAirTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.Group1.prewashRestTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.Group1.prewashWaterTime_Num" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.AnalogNumeric2" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.an_WaterLevel" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.AnalogNumeric3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="HomeScreen.AnalogNumeric4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="HomeScreen.Group1.AnalogNumeric1" TargetProperty="Value" Source="Tags.ManWash_Dry_Cycle" />
+        <Item Target="HomeScreen.Group1.AnalogNumeric" TargetProperty="Value" Source="Tags.Man_Pre_Wash_Cycle" />
+        <Item Target="HomeScreen.Group1.testTime_Num" TargetProperty="Value" Source="Tags.TestTime" />
+        <Item Target="HomeScreen.Group1.cleaningRestTime_Num" TargetProperty="Value" Source="Tags.cleaningRestTime" />
+        <Item Target="HomeScreen.Group1.cleaningPressTime_Num" TargetProperty="Value" Source="Tags.cleaningPressTime" />
+        <Item Target="HomeScreen.Group1.cleaningWaterTime_Num" TargetProperty="Value" Source="Tags.cleaningWaterTime" />
+        <Item Target="HomeScreen.Group1.dryingRestTime_Num" TargetProperty="Value" Source="Tags.dryingRestTime" />
+        <Item Target="HomeScreen.Group1.dryingAirTime_Num" TargetProperty="Value" Source="Tags.dryingAirTime" />
+        <Item Target="HomeScreen.Group1.prewashRestTime_Num" TargetProperty="Value" Source="Tags.prewashRestTime" />
+        <Item Target="HomeScreen.Group1.prewashWaterTime_Num" TargetProperty="Value" Source="Tags.prewashWaterTime" />
+        <Item Target="HomeScreen.AnalogNumeric2" TargetProperty="Value" Source="Tags.WaterLevelSwitch" />
+        <Item xsi:type="ActionItem" Target="HomeScreen.HSEnglishFlag" TargetProperty="Actions" Source="Tags.SystemLanguage" Event="MouseDown" Action="Set Analog" Param="" />
+        <Item xsi:type="ActionItem" Target="HomeScreen.Picture1" TargetProperty="Actions" Source="Tags.SystemLanguage" Event="MouseDown" Action="Set Analog" Param="" />
+        <Item Target="HomeScreen.an_WaterLevel" TargetProperty="Value" Source="Tags.WaterLevelSwitch" />
+        <Item Target="HomeScreen.AnalogNumeric3" TargetProperty="Value" Source="Tags.MagneticDoorSwitch" />
+        <Item Target="HomeScreen.AnalogNumeric4" TargetProperty="Value" Source="Tags.Green_Light" />
+        <Item xsi:type="ActionItem" Target="HomeScreen.Picture4" TargetProperty="Actions" Source="Tags.SystemLanguage" Event="MouseDown" Action="Set Analog" Param="" />
+        <Item xsi:type="ActionItem" Target="HomeScreen.Picture5" TargetProperty="Actions" Source="Tags.SystemLanguage" Event="MouseDown" Action="Set Analog" Param="" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items />
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="HomeScreen.HSEnglishFlag" TargetProperty="Actions" Source="Automatic_Screen" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="HomeScreen.Picture1" TargetProperty="Actions" Source="Automatic_Screen" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="HomeScreen.Picture4" TargetProperty="Actions" Source="Automatic_Screen" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="HomeScreen.Picture5" TargetProperty="Actions" Source="Automatic_Screen" Event="MouseDown" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>HomeScreen</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>21</ObjectsCount>
+          <ScreenName>HomeScreen</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="HomeScreen.Script.cs" Source="Tags.cleaningWaterTime" />
+        <Item Target="HomeScreen.Script.cs" Source="Tags.prewashWaterTime" />
+        <Item Target="HomeScreen.Script.cs" Source="Tags.prewashRestTime" />
+        <Item Target="HomeScreen.Script.cs" Source="Tags.dryingAirTime" />
+        <Item Target="HomeScreen.Script.cs" Source="Tags.dryingRestTime" />
+        <Item Target="HomeScreen.Script.cs" Source="Tags.cleaningPressTime" />
+        <Item Target="HomeScreen.Script.cs" Source="Tags.cleaningRestTime" />
+        <Item Target="HomeScreen.Script.cs" Source="Tags.TestTime" />
+        <Item Target="HomeScreen.Script.cs" Source="Tags.Man_Pre_Wash_Cycle" />
+        <Item Target="HomeScreen.Script.cs" Source="Tags.ManWash_Dry_Cycle" />
+        <Item Target="HomeScreen.Script.cs" Source="Tags.CleaningCounterLimit" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="HomeScreen.HSEnglishFlag" TargetProperty="Actions" Source="Tags.SystemLanguage" Event="MouseDown" Action="Set Analog" Param="" />
+        <Item xsi:type="ActionItem" Target="HomeScreen.Picture1" TargetProperty="Actions" Source="Tags.SystemLanguage" Event="MouseDown" Action="Set Analog" Param="" />
+        <Item xsi:type="ActionItem" Target="HomeScreen.Picture4" TargetProperty="Actions" Source="Tags.SystemLanguage" Event="MouseDown" Action="Set Analog" Param="" />
+        <Item xsi:type="ActionItem" Target="HomeScreen.Picture5" TargetProperty="Actions" Source="Tags.SystemLanguage" Event="MouseDown" Action="Set Analog" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="HomeScreen.Logo" Source="logobeyaz" Width="475" Height="482" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="HomeScreen.Date_Time" Source="d&amp;t" Width="70" Height="70" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="HomeScreen.KSPFull" Source="logowname (2)" Width="317" Height="112" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="HomeScreen.HSEnglishFlag" Source="united-kingdom-flag-3d-round-icon-256" Width="120" Height="120" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="HomeScreen.Picture1" Source="spain-flag-3d-round-icon-256" Width="120" Height="120" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="HomeScreen.Picture4" Source="italy-flag-3d-round-icon-256" Width="120" Height="120" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="HomeScreen.Picture5" Source="portugal-flag-3d-round-icon-256" Width="120" Height="120" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

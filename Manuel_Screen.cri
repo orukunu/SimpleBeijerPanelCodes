@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="Manuel_Screen.Navigation.DateClock.DigitalClock3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Navigation.DateClock.DigitalClock4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Navigation.Drying_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Navigation.Home_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Navigation.Test_Nav" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Navigation.Auto_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Navigation.Alarm_button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Navigation.Manuel_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Door_Control.Door_Close_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Door_Control.Door_Open_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Up" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.TimeHeat_Control.Wash_Time_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.TimeHeat_Control.Show_Heat" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.TimeHeat_Control.Set_Heat" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.TimeHeat_Control.Set_Time" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Text4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Text2" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.PreWash_Cycle_Selector" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Dry_Cycle_Selector" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.PreWash_Cycle_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Dry_Cycle_Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.StatusChecker" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.PressChecker" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.t_Door" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.an_WaterLevel" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.t_Level" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Text5" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Text3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.MWashing_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Heater_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Setting_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Press_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Gun_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.PAUSE" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Button1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.b_AirValve" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.AnalogNumeric3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Manuel_Screen.Text6" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Door_Control.Door_Close_Button" TargetProperty="Actions" Source="Tags.Door_Close" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Door_Control.Door_Close_Button" TargetProperty="Actions" Source="Tags.Door_Close" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item Target="Manuel_Screen.Door_Control.Door_Close_Button" TargetProperty="Value" Source="Tags.Door_Close" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Door_Control.Door_Open_Button" TargetProperty="Actions" Source="Tags.Door_Open" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Door_Control.Door_Open_Button" TargetProperty="Actions" Source="Tags.Door_Open" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item Target="Manuel_Screen.Door_Control.Door_Open_Button" TargetProperty="Value" Source="Tags.Door_Open" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Up" TargetProperty="Actions" Source="Tags.Piston_Up" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Up" TargetProperty="Actions" Source="Tags.Piston_Up" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Up" TargetProperty="Value" Source="Tags.Piston_Up" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Actions" Source="Tags.Piston_Down" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Actions" Source="Tags.Piston_Down" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Value" Source="Tags.Piston_Down" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Lamp_Switch" TargetProperty="Actions" Source="Tags.Interior_Lightning" Event="MouseDown" Action="Toggle Tag" Param="" />
+        <Item Target="Manuel_Screen.Lamp_Switch" TargetProperty="Value" Source="Tags.Interior_Lightning" />
+        <Item Target="Manuel_Screen.Washing_Led" TargetProperty="Fill" Source="Tags.Manuel_Washing" />
+        <Item Target="Manuel_Screen.TimeHeat_Control.Show_Heat" TargetProperty="Value" Source="Tags.Water_Temp_Current" />
+        <Item Target="Manuel_Screen.TimeHeat_Control.Set_Heat" TargetProperty="Value" Source="Tags.Water_Temp_Set" />
+        <Item Target="Manuel_Screen.TimeHeat_Control.Set_Time" TargetProperty="Value" Source="Tags.ManWashTime" />
+        <Item Target="Manuel_Screen.TimeHeat_Control.Set_Time" TargetProperty="IsReadOnly" Source="Tags.Manuel_Washing" />
+        <Item Target="Manuel_Screen.PreWash_Cycle_Selector" TargetProperty="Value" Source="Tags.Man_Pre_Wash_Cycle" />
+        <Item Target="Manuel_Screen.PreWash_Cycle_Selector" TargetProperty="EnabledProperties.EnabledDynamicsValue" Source="Tags.Manuel_Washing" />
+        <Item Target="Manuel_Screen.Dry_Cycle_Selector" TargetProperty="Value" Source="Tags.ManWash_Dry_Cycle" />
+        <Item Target="Manuel_Screen.Dry_Cycle_Selector" TargetProperty="EnabledProperties.EnabledDynamicsValue" Source="Tags.Manuel_Washing" />
+        <Item Target="Manuel_Screen.StatusChecker" TargetProperty="Value" Source="Tags.Manuel_Washing" />
+        <Item Target="Manuel_Screen.PressChecker" TargetProperty="Value" Source="Tags.InCycle" />
+        <Item Target="Manuel_Screen.an_WaterLevel" TargetProperty="Value" Source="Tags.WaterLevelSwitch" />
+        <Item Target="Manuel_Screen.Text5" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.PausedStatus" />
+        <Item Target="Manuel_Screen.Ellipse" TargetProperty="Fill" Source="Tags.DPF_CAT" />
+        <Item Target="Manuel_Screen.Ellipse1" TargetProperty="Fill" Source="Tags.DPF_CAT" />
+        <Item Target="Manuel_Screen.Rectangle2" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.PausedStatus" />
+        <Item Target="Manuel_Screen.Rectangle1" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.Manuel_Washing" />
+        <Item Target="Manuel_Screen.Text3" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.Manuel_Washing" />
+        <Item Target="Manuel_Screen.MWashing_Button" TargetProperty="Value" Source="Tags.Manuel_Washing" />
+        <Item Target="Manuel_Screen.MWashing_Button" TargetProperty="Foreground" Source="Tags.Automatic_Washing" />
+        <Item Target="Manuel_Screen.Heater_Button" TargetProperty="TextValue" Source="Tags.Water_Heater" />
+        <Item Target="Manuel_Screen.Heater_Button" TargetProperty="Background" Source="Tags.Water_Heater" />
+        <Item Target="Manuel_Screen.Heater_Button" TargetProperty="Foreground" Source="Tags.Water_Heater" />
+        <Item Target="Manuel_Screen.Setting_Button" TargetProperty="Background" Source="Tags.Water_Heater" />
+        <Item Target="Manuel_Screen.Press_Button" TargetProperty="Value" Source="Tags.Pressure_Valve" />
+        <Item Target="Manuel_Screen.Press_Button" TargetProperty="Foreground" Source="Tags.Pressure_Valve" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Gun_Button" TargetProperty="Actions" Source="Tags.Manual_Washing_Pump" Event="Click" Action="Toggle Tag" Param="" />
+        <Item Target="Manuel_Screen.Gun_Button" TargetProperty="Value" Source="Tags.Manual_Washing_Pump" />
+        <Item Target="Manuel_Screen.Gun_Button" TargetProperty="Foreground" Source="Tags.Manual_Washing_Pump" />
+        <Item Target="Manuel_Screen.PAUSE" TargetProperty="TextValue" Source="Tags.PausedStatus" />
+        <Item Target="Manuel_Screen.PAUSE" TargetProperty="Foreground" Source="Tags.PausedStatus" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Button" TargetProperty="Actions" Source="Tags.DPF_CAT" Event="Click" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Button1" TargetProperty="Actions" Source="Tags.DPF_CAT" Event="Click" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.b_AirValve" TargetProperty="Actions" Source="Tags.Pressure_Valve" Event="Click" Action="Toggle Tag" Param="" />
+        <Item Target="Manuel_Screen.b_AirValve" TargetProperty="Foreground" Source="Tags.Pressure_Valve" />
+        <Item Target="Manuel_Screen.b_AirValve" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.Manuel_Washing" />
+        <Item Target="Manuel_Screen.AnalogNumeric3" TargetProperty="Value" Source="Tags.CleaningCounter" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="Manuel_Screen.Navigation.Drying_Button" Source="-475964534_Normal.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Drying_Button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Drying_Button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Home_Button" Source="1775881799_Normal.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Home_Button" Source="1775881799_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Home_Button" Source="1775881799_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Test_Nav" Source="-475964534_Normal.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Test_Nav" Source="-475964534_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Test_Nav" Source="-475964534_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Auto_Button" Source="-475964534_Normal.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Auto_Button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Auto_Button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Alarm_button" Source="-475964534_Normal.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Alarm_button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Alarm_button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Manuel_Button" Source="188522111_Normal.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Manuel_Button" Source="188522111_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Navigation.Manuel_Button" Source="188522111_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Door_Control.Door_Close_Button" Source="420018005_Normal.bmp" />
+        <Item Target="Manuel_Screen.Door_Control.Door_Close_Button" Source="420018005_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Door_Control.Door_Close_Button" Source="420018005_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Door_Control.Door_Open_Button" Source="983584347_Normal.bmp" />
+        <Item Target="Manuel_Screen.Door_Control.Door_Open_Button" Source="983584347_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Door_Control.Door_Open_Button" Source="983584347_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Up" Source="983584347_Normal.bmp" />
+        <Item Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Up" Source="983584347_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Up" Source="983584347_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Down" Source="420018005_Normal.bmp" />
+        <Item Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Down" Source="420018005_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Down" Source="420018005_Disabled.bmp" />
+        <Item Target="Manuel_Screen.PreWash_Cycle_Selector" Source="Manuel_Screen.m_PreWash_Cycle_Selector.bmp" />
+        <Item Target="Manuel_Screen.Dry_Cycle_Selector" Source="Manuel_Screen.m_Dry_Cycle_Selector.bmp" />
+        <Item Target="Manuel_Screen.MWashing_Button" Source="1187338469_Normal.bmp" />
+        <Item Target="Manuel_Screen.MWashing_Button" Source="1187338469_Pressed.bmp" />
+        <Item Target="Manuel_Screen.MWashing_Button" Source="1187338469_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Heater_Button" Source="1877943567_Normal.bmp" />
+        <Item Target="Manuel_Screen.Heater_Button" Source="1877943567_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Heater_Button" Source="1877943567_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Setting_Button" Source="1877943567_Normal.bmp" />
+        <Item Target="Manuel_Screen.Setting_Button" Source="1877943567_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Setting_Button" Source="1877943567_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Press_Button" Source="-1208838051_Normal.bmp" />
+        <Item Target="Manuel_Screen.Press_Button" Source="-1208838051_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Press_Button" Source="-1208838051_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Gun_Button" Source="116868019_Normal.bmp" />
+        <Item Target="Manuel_Screen.Gun_Button" Source="116868019_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Gun_Button" Source="116868019_Disabled.bmp" />
+        <Item Target="Manuel_Screen.PAUSE" Source="-1208838051_Normal.bmp" />
+        <Item Target="Manuel_Screen.PAUSE" Source="-1208838051_Pressed.bmp" />
+        <Item Target="Manuel_Screen.PAUSE" Source="-1208838051_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Button" Source="712294731_Normal.bmp" />
+        <Item Target="Manuel_Screen.Button" Source="712294731_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Button" Source="712294731_Disabled.bmp" />
+        <Item Target="Manuel_Screen.Button1" Source="712294731_Normal.bmp" />
+        <Item Target="Manuel_Screen.Button1" Source="712294731_Pressed.bmp" />
+        <Item Target="Manuel_Screen.Button1" Source="712294731_Disabled.bmp" />
+        <Item Target="Manuel_Screen.b_AirValve" Source="-822182374_Normal.bmp" />
+        <Item Target="Manuel_Screen.b_AirValve" Source="-822182374_Pressed.bmp" />
+        <Item Target="Manuel_Screen.b_AirValve" Source="-822182374_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Navigation.Drying_Button" TargetProperty="Actions" Source="Drying_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Navigation.Home_Button" TargetProperty="Actions" Source="HomeScreen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Navigation.Test_Nav" TargetProperty="Actions" Source="Test_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Navigation.Auto_Button" TargetProperty="Actions" Source="Automatic_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Navigation.Alarm_button" TargetProperty="Actions" Source="Alarm_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Setting_Button" TargetProperty="Actions" Source="Settings_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>Manuel_Screen</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>49</ObjectsCount>
+          <ScreenName>Manuel_Screen</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.Manuel_Washing" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.MagneticDoorSwitch" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.Testing_Proc" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.Automatic_Washing" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.ManWashTime" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.CleaningCounter" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.CleaningCounterLimit" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.Drying_Proc" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.Cycle_Info" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.InCycle" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.Washing_Pump" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.Pressure_Valve" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.WaterLevelSwitch" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.Water_Heater" />
+        <Item Target="Manuel_Screen.Script.cs" Source="Tags.PausedStatus" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Door_Control.Door_Close_Button" TargetProperty="Actions" Source="Tags.Door_Close" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Door_Control.Door_Close_Button" TargetProperty="Actions" Source="Tags.Door_Close" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Door_Control.Door_Open_Button" TargetProperty="Actions" Source="Tags.Door_Open" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Door_Control.Door_Open_Button" TargetProperty="Actions" Source="Tags.Door_Open" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Up" TargetProperty="Actions" Source="Tags.Piston_Up" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Up" TargetProperty="Actions" Source="Tags.Piston_Up" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Actions" Source="Tags.Piston_Down" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Actions" Source="Tags.Piston_Down" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Lamp_Switch" TargetProperty="Actions" Source="Tags.Interior_Lightning" Event="MouseDown" Action="Toggle Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Gun_Button" TargetProperty="Actions" Source="Tags.Manual_Washing_Pump" Event="Click" Action="Toggle Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Button" TargetProperty="Actions" Source="Tags.DPF_CAT" Event="Click" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.Button1" TargetProperty="Actions" Source="Tags.DPF_CAT" Event="Click" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Manuel_Screen.b_AirValve" TargetProperty="Actions" Source="Tags.Pressure_Valve" Event="Click" Action="Toggle Tag" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="Manuel_Screen.Logo" Source="logobeyaz" Width="475" Height="482" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Manuel_Screen.Navigation.Home_Button" Source="home (1)" Width="40" Height="35" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Manuel_Screen.Lamp_Switch" Source="light close" Width="79" Height="82" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Manuel_Screen.Lamp_Switch" Source="light close" Width="79" Height="82" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Manuel_Screen.Lamp_Switch" Source="light open" Width="79" Height="82" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

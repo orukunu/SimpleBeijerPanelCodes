@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="Test_Screen.Navigation.DateClock.DigitalClock3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Navigation.DateClock.DigitalClock4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Navigation.Home_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Navigation.Auto_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Navigation.Manuel_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Navigation.Alarm_button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Navigation.Test_Nav" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Navigation.Drying_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Filter_Stabilizer_Control.Stable_Up" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Door_Control.Door_Close_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Door_Control.Door_Open_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Filter_Status.StatusTexts.CloggedFilter" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Filter_Status.StatusTexts.CleanFilter" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Filter_Status.StatusTexts.DirtyFilter" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Text4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.TrendViewer" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Pressure_Show.PressureNumeric" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Pressure_Show.Text1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.AnalogNumeric" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.SecretButton" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Filter_Test" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.ExpandButton" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.AnalogNumeric5" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.Text3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.TrendViewer1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Test_Screen.NarrowButton" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="Test_Screen.Filter_Sign" TargetProperty="Fill" Source="Tags.Testing_Proc" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Filter_Stabilizer_Control.Stable_Up" TargetProperty="Actions" Source="Tags.Piston_Up" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Filter_Stabilizer_Control.Stable_Up" TargetProperty="Actions" Source="Tags.Piston_Up" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Actions" Source="Tags.Piston_Down" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Actions" Source="Tags.Piston_Down" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Door_Control.Door_Close_Button" TargetProperty="Actions" Source="Tags.Door_Close" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Door_Control.Door_Close_Button" TargetProperty="Actions" Source="Tags.Door_Close" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Door_Control.Door_Open_Button" TargetProperty="Actions" Source="Tags.Door_Open" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Door_Control.Door_Open_Button" TargetProperty="Actions" Source="Tags.Door_Open" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item Target="Test_Screen.Filter_Status.StatusDots.GreenDot" TargetProperty="BlinkProperties.IsBlinkEnabled" Source="Tags.Clean_Filter" />
+        <Item Target="Test_Screen.Filter_Status.StatusDots.RedDot" TargetProperty="BlinkProperties.IsBlinkEnabled" Source="Tags.Clogged_Filter" />
+        <Item Target="Test_Screen.Filter_Status.StatusDots.YellowDot" TargetProperty="BlinkProperties.IsBlinkEnabled" Source="Tags.Dirty_Filter" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Lamp_Switch" TargetProperty="Actions" Source="Tags.Interior_Lightning" Event="MouseDown" Action="Toggle Tag" Param="" />
+        <Item Target="Test_Screen.Lamp_Switch" TargetProperty="Value" Source="Tags.Interior_Lightning" />
+        <Item Target="Test_Screen.TrendViewer" TargetProperty="ValueScaleMaximum" Source="Tags.Max_Pressure" />
+        <Item Target="Test_Screen.TrendViewer" TargetProperty="EnabledProperties.EnabledDynamicsValue" Source="Tags.Testing_Proc" />
+        <Item xsi:type="DecoratedItem" Target="Test_Screen.TrendViewer.Curve" TargetProperty="DataSourceName" Source="Tags.Pressure_Info" />
+        <Item Target="Test_Screen.Pressure_Show.PressureNumeric" TargetProperty="Value" Source="Tags.Pressure_Info" />
+        <Item Target="Test_Screen.AnalogNumeric" TargetProperty="Value" Source="Tags.Testing_Proc" />
+        <Item Target="Test_Screen.SecretButton" TargetProperty="EnabledProperties.EnabledDynamicsValue" Source="Tags.ViewerControl" />
+        <Item Target="Test_Screen.Filter_Test" TargetProperty="Value" Source="Tags.Testing_Proc" />
+        <Item Target="Test_Screen.Filter_Test" TargetProperty="Foreground" Source="Tags.Testing_Proc" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.ExpandButton" TargetProperty="Actions" Source="Tags.ViewerControl" Event="Click" Action="Set Tag" Param="" />
+        <Item Target="Test_Screen.AnalogNumeric5" TargetProperty="Value" Source="Tags.Client_No" />
+        <Item Target="Test_Screen.TrendViewer1" TargetProperty="ValueScaleMaximum" Source="Tags.Max_Pressure" />
+        <Item Target="Test_Screen.TrendViewer1" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.ViewerControl" />
+        <Item xsi:type="DecoratedItem" Target="Test_Screen.TrendViewer1.Curve" TargetProperty="DataSourceName" Source="Tags.Pressure_Info" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.NarrowButton" TargetProperty="Actions" Source="Tags.ViewerControl" Event="Click" Action="Reset Tag" Param="" />
+        <Item Target="Test_Screen.NarrowButton" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.ViewerControl" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="Test_Screen.Navigation.Home_Button" Source="1775881799_Normal.bmp" />
+        <Item Target="Test_Screen.Navigation.Home_Button" Source="1775881799_Pressed.bmp" />
+        <Item Target="Test_Screen.Navigation.Home_Button" Source="1775881799_Disabled.bmp" />
+        <Item Target="Test_Screen.Navigation.Auto_Button" Source="-475964534_Normal.bmp" />
+        <Item Target="Test_Screen.Navigation.Auto_Button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Test_Screen.Navigation.Auto_Button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Test_Screen.Navigation.Manuel_Button" Source="-475964534_Normal.bmp" />
+        <Item Target="Test_Screen.Navigation.Manuel_Button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Test_Screen.Navigation.Manuel_Button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Test_Screen.Navigation.Alarm_button" Source="-475964534_Normal.bmp" />
+        <Item Target="Test_Screen.Navigation.Alarm_button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Test_Screen.Navigation.Alarm_button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Test_Screen.Navigation.Test_Nav" Source="188522111_Normal.bmp" />
+        <Item Target="Test_Screen.Navigation.Test_Nav" Source="188522111_Pressed.bmp" />
+        <Item Target="Test_Screen.Navigation.Test_Nav" Source="188522111_Disabled.bmp" />
+        <Item Target="Test_Screen.Navigation.Drying_Button" Source="-475964534_Normal.bmp" />
+        <Item Target="Test_Screen.Navigation.Drying_Button" Source="-475964534_Pressed.bmp" />
+        <Item Target="Test_Screen.Navigation.Drying_Button" Source="-475964534_Disabled.bmp" />
+        <Item Target="Test_Screen.Filter_Stabilizer_Control.Stable_Up" Source="983584347_Normal.bmp" />
+        <Item Target="Test_Screen.Filter_Stabilizer_Control.Stable_Up" Source="983584347_Pressed.bmp" />
+        <Item Target="Test_Screen.Filter_Stabilizer_Control.Stable_Up" Source="983584347_Disabled.bmp" />
+        <Item Target="Test_Screen.Filter_Stabilizer_Control.Stable_Down" Source="420018005_Normal.bmp" />
+        <Item Target="Test_Screen.Filter_Stabilizer_Control.Stable_Down" Source="420018005_Pressed.bmp" />
+        <Item Target="Test_Screen.Filter_Stabilizer_Control.Stable_Down" Source="420018005_Disabled.bmp" />
+        <Item Target="Test_Screen.Door_Control.Door_Close_Button" Source="420018005_Normal.bmp" />
+        <Item Target="Test_Screen.Door_Control.Door_Close_Button" Source="420018005_Pressed.bmp" />
+        <Item Target="Test_Screen.Door_Control.Door_Close_Button" Source="420018005_Disabled.bmp" />
+        <Item Target="Test_Screen.Door_Control.Door_Open_Button" Source="983584347_Normal.bmp" />
+        <Item Target="Test_Screen.Door_Control.Door_Open_Button" Source="983584347_Pressed.bmp" />
+        <Item Target="Test_Screen.Door_Control.Door_Open_Button" Source="983584347_Disabled.bmp" />
+        <Item Target="Test_Screen.TrendViewer" Source="Test_Screen.m_TrendViewer.bmp" />
+        <Item Target="Test_Screen.Filter_Test" Source="-349141904_Normal.bmp" />
+        <Item Target="Test_Screen.Filter_Test" Source="-349141904_Pressed.bmp" />
+        <Item Target="Test_Screen.Filter_Test" Source="-349141904_Disabled.bmp" />
+        <Item Target="Test_Screen.ExpandButton" Source="-671478971_Normal.bmp" />
+        <Item Target="Test_Screen.ExpandButton" Source="-671478971_Pressed.bmp" />
+        <Item Target="Test_Screen.ExpandButton" Source="-671478971_Disabled.bmp" />
+        <Item Target="Test_Screen.TrendViewer1" Source="Test_Screen.m_TrendViewer1.bmp" />
+        <Item Target="Test_Screen.NarrowButton" Source="1993142194_Normal.bmp" />
+        <Item Target="Test_Screen.NarrowButton" Source="1993142194_Pressed.bmp" />
+        <Item Target="Test_Screen.NarrowButton" Source="1993142194_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="Test_Screen.Navigation.Home_Button" TargetProperty="Actions" Source="HomeScreen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Navigation.Auto_Button" TargetProperty="Actions" Source="Automatic_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Navigation.Manuel_Button" TargetProperty="Actions" Source="Manuel_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Navigation.Alarm_button" TargetProperty="Actions" Source="Alarm_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Navigation.Drying_Button" TargetProperty="Actions" Source="Drying_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>Test_Screen</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>36</ObjectsCount>
+          <ScreenName>Test_Screen</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="Test_Screen.Script.cs" Source="Tags.Automatic_Washing" />
+        <Item Target="Test_Screen.Script.cs" Source="Tags.Testing_Proc" />
+        <Item Target="Test_Screen.Script.cs" Source="Tags.Green_Light" />
+        <Item Target="Test_Screen.Script.cs" Source="Tags.Buzzer" />
+        <Item Target="Test_Screen.Script.cs" Source="Tags.Max_Pressure" />
+        <Item Target="Test_Screen.Script.cs" Source="Tags.TestTimer" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="Test_Screen.Filter_Stabilizer_Control.Stable_Up" TargetProperty="Actions" Source="Tags.Piston_Up" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Filter_Stabilizer_Control.Stable_Up" TargetProperty="Actions" Source="Tags.Piston_Up" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Actions" Source="Tags.Piston_Down" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Filter_Stabilizer_Control.Stable_Down" TargetProperty="Actions" Source="Tags.Piston_Down" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Door_Control.Door_Close_Button" TargetProperty="Actions" Source="Tags.Door_Close" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Door_Control.Door_Close_Button" TargetProperty="Actions" Source="Tags.Door_Close" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Door_Control.Door_Open_Button" TargetProperty="Actions" Source="Tags.Door_Open" Event="PreviewMouseDown" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Door_Control.Door_Open_Button" TargetProperty="Actions" Source="Tags.Door_Open" Event="PreviewMouseUp" Action="Reset Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.Lamp_Switch" TargetProperty="Actions" Source="Tags.Interior_Lightning" Event="MouseDown" Action="Toggle Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.ExpandButton" TargetProperty="Actions" Source="Tags.ViewerControl" Event="Click" Action="Set Tag" Param="" />
+        <Item xsi:type="ActionItem" Target="Test_Screen.NarrowButton" TargetProperty="Actions" Source="Tags.ViewerControl" Event="Click" Action="Reset Tag" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="Test_Screen.Navigation.Home_Button" Source="home (1)" Width="40" Height="35" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Test_Screen.Logo" Source="logobeyaz" Width="475" Height="482" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Test_Screen.Filter_Status.StatusDots.GreenDot" Source="led_green" Width="40" Height="39" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Test_Screen.Filter_Status.StatusDots.RedDot" Source="led_red" Width="40" Height="39" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Test_Screen.Filter_Status.StatusDots.YellowDot" Source="led_yellow" Width="40" Height="39" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Test_Screen.Lamp_Switch" Source="light close" Width="89" Height="93" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Test_Screen.Lamp_Switch" Source="light close" Width="89" Height="93" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="Test_Screen.Lamp_Switch" Source="light open" Width="89" Height="93" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items>
+        <Item xsi:type="TrendViewerItem" Target="Test_Screen.TrendViewer" TrendWidth="237" TimeRangeBoundDataItem="" TimeRange="PT10S">
+          <DataSourceNames>
+            <DataSourceName>Tags.Pressure_Info</DataSourceName>
+          </DataSourceNames>
+        </Item>
+        <Item xsi:type="TrendViewerItem" Target="Test_Screen.TrendViewer1" TrendWidth="702" TimeRangeBoundDataItem="" TimeRange="PT10S">
+          <DataSourceNames>
+            <DataSourceName>Tags.Pressure_Info</DataSourceName>
+          </DataSourceNames>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

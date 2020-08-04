@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.42.138.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="Components.Back_Button" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Components.Text" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Components.Text1" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Components.Text2" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Components.Text3" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Components.Text4" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Components.Text5" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Components.Text7" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Components.Text8" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Components.Text10" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Components.Text11" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+        <Item Target="Components.Text12" TargetProperty="FontFamily" Source="LSIS_ENG.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="Components.Text" TargetProperty="Foreground" Source="Tags.x0" />
+        <Item Target="Components.Text1" TargetProperty="Foreground" Source="Tags.Foot_Switch" />
+        <Item Target="Components.Text2" TargetProperty="Foreground" Source="Tags.Phase_Error" />
+        <Item Target="Components.Text3" TargetProperty="Foreground" Source="Tags.Washing_Thermic" />
+        <Item Target="Components.Text4" TargetProperty="Foreground" Source="Tags.Manuel_Washing_Thermic" />
+        <Item Target="Components.Text5" TargetProperty="Foreground" Source="Tags.Blower_Error" />
+        <Item Target="Components.Text7" TargetProperty="Foreground" Source="Tags.MagneticDoorSwitch" />
+        <Item Target="Components.Text8" TargetProperty="Foreground" Source="Tags.WaterLevelSwitch" />
+        <Item Target="Components.Text10" TargetProperty="Foreground" Source="Tags.Pressure_Input" />
+        <Item Target="Components.Text11" TargetProperty="Foreground" Source="Tags.WaterTransmitter" />
+        <Item Target="Components.Text12" TargetProperty="Foreground" Source="Tags.AirHeaterTransmitter" />
+      </Items>
+    </Category>
+    <Category Name="IntegratorSwapActiveProjectAction">
+      <Items />
+    </Category>
+    <Category Name="InvalidAction">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="Components.Back_Button" Source="1859279993_Normal.bmp" />
+        <Item Target="Components.Back_Button" Source="1859279993_Pressed.bmp" />
+        <Item Target="Components.Back_Button" Source="1859279993_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="Components.Back_Button" TargetProperty="Actions" Source="Alarm_Screen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>Components</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>13</ObjectsCount>
+          <ScreenName>Components</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="Components.Picture" Source="logobeyaz" Width="475" Height="482" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>
